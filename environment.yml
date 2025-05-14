@@ -1,0 +1,16 @@
+name: networks_tocantins
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - scipy
+  - numpy
+  - jupyter
+  - seaborn
+  - pygraphviz
+  - networkx
+  - lxml
+  - pydot
+  - pandas
+  - scienceplots
+  - matplotlib
