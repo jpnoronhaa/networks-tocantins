@@ -5,7 +5,7 @@ import os
 
 def main():
   parser = argparse.ArgumentParser(
-      description='Gera metadados de variáveis a partir de um arquivo CSV e exporta para CSV e Markdown.'
+    description='Gera metadados de variáveis a partir de um arquivo CSV e exporta para CSV e Markdown.'
   )
 
   parser.add_argument(
@@ -86,4 +86,4 @@ def main():
     print(f"Ocorreu um erro inesperado: {e}")
 
 if __name__ == "__main__":
-    main()
+  main()
