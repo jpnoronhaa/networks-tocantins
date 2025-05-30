@@ -1,5 +1,5 @@
 import pandas as pd
-from src.authorship import extract_authors
+from src.authorship_util import extract_authors
 import argparse
 import os
 
