@@ -2,6 +2,8 @@ import pandas as pd
 from src.authorship_util import extract_authors
 import argparse
 import os
+import csv
+import sys
 
 def main():
   parser = argparse.ArgumentParser(
@@ -26,9 +28,11 @@ def main():
 
   csv_path = args.csv_path
   output_csv_path = args.output_csv_path
+  new_limit = sys.maxsize
 
   try:
-    df_works = pd.read_csv(csv_path)
+    csv.field_size_limit(new_limit)
+    df_works = pd.read_csv(csv_path, encoding='utf8', engine='python')
     print(f"DataFrame lido de: {csv_path}\n")
     print("Extraindo os autores do arquivo de entrada...")
     authors_frozenset = extract_authors(df_works)
@@ -56,8 +60,8 @@ def main():
     print(f"Erro: O arquivo CSV '{csv_path}' não foi encontrado.")
   except pd.errors.EmptyDataError:
     print(f"Erro: O arquivo CSV '{csv_path}' está vazio ou contém apenas cabeçalho.")
-  except pd.errors.ParserError:
-    print(f"Erro: Não foi possível analisar o arquivo CSV '{csv_path}'. Verifique o formato.")
+  except pd.errors.ParserError as e:
+    print(f"Erro: Não foi possível analisar o arquivo CSV '{csv_path}'. Verifique o formato. {e}")
   except Exception as e:
     print(f"Ocorreu um erro inesperado: {e}")
 
