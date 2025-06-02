@@ -46,10 +46,22 @@ Abaixo estão os links para acessar os dados pelo site e pela API.
 
   API: [https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i41458283,publication_year:1998+-+2024&sort=cited_by_count:desc&per_page=10](https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i41458283,publication_year:1998+-+2024&sort=cited_by_count:desc&per_page=10)
 
-- Tocantins (União das 3 instituições)
+- CEULP
 
-  Site: [https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai41458283%7Ci4210139493%7Ci4210089573&view=list,report,api](https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai41458283%7Ci4210139493%7Ci4210089573&view=list,report,api)
+  Site: [https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai4387152239,publication_year%3A1998-2024&view=list,report,api](https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai4387152239,publication_year%3A1998-2024&view=list,report,api) 
 
-  API: [https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i41458283|i4210139493|i4210089573&sort=cited_by_count:desc&per_page=10](https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i41458283|i4210139493|i4210089573&sort=cited_by_count:desc&per_page=10)
+  API: [https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i4387152239,publication_year:1998-2024&sort=cited_by_count:desc&per_page=10](https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i4387152239,publication_year:1998-2024&sort=cited_by_count:desc&per_page=10)
 
-Para que o código funcione normalmente os arquivos devem estar contidos na pasta `/data`.
+- UFNT
+
+  Site: [https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai4387152431,publication_year%3A1998-2024&view=list,report,api](https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai4387152431,publication_year%3A1998-2024&view=list,report,api)
+
+  API: [https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i4387152431,publication_year:1998-2024&sort=cited_by_count:desc&per_page=10](https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i4387152431,publication_year:1998-2024&sort=cited_by_count:desc&per_page=10)
+
+- Tocantins (União das 5 instituições)
+
+  Site: [https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai41458283%7Ci4210139493%7Ci4210089573%7Ci4387152431%7Ci4387152239,publication_year%3A1998-2024&view=list,report,api](https://openalex.org/works?page=1&filter=authorships.institutions.lineage%3Ai41458283%7Ci4210139493%7Ci4210089573%7Ci4387152431%7Ci4387152239,publication_year%3A1998-2024&view=list,report,api)
+
+  API: [https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i41458283|i4210139493|i4210089573|i4387152431|i4387152239,publication_year:1998-2024&sort=cited_by_count:desc&per_page=10](https://api.openalex.org/works?page=1&filter=authorships.institutions.lineage:i41458283|i4210139493|i4210089573|i4387152431|i4387152239,publication_year:1998-2024&sort=cited_by_count:desc&per_page=10)
+
+Para que o código funcione normalmente os arquivos devem estar contidos na pasta `/data` e com o nome no formato `works_<NOME_DA_INSTITUICAO>.csv`.
