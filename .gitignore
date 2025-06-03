@@ -2,3 +2,10 @@
 data/
 *.pyc
 .DS_Store
+results/graphs/*/graph*
+!results/graphs/uft/graph_uft_2024.gexf
+!results/graphs/unitins/graph_unitins_2024.gexf
+!results/graphs/ifto/graph_ifto_2024.gexf
+!results/graphs/ceulp/graph_ceulp_2024.gexf
+!results/graphs/tocantins/graph_tocantins_2024.gexf
+!results/graphs/ufnt/graph_ufnt_2024.gexf
