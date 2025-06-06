@@ -70,3 +70,86 @@ def evolution_graphs(df_works, df_authors, start_year, end_year):
     
   
   return graphs
+
+def extract_graph_metrics(graph):
+  """
+  Calcula e retorna diversas métricas de um grafo.
+
+  Args:
+  graph (nx.Graph): O grafo NetworkX do qual as métricas serão extraídas.
+
+  Returns:
+    dict: Um dicionário contendo as seguintes métricas do grafo:
+    - 'num_nodes': Número de vértices no grafo.
+    - 'num_edges': Número de arestas no grafo.
+    - 'largest_connected_component_size': Tamanho da maior componente conexa.
+    - 'degrees': Dicionário com o grau de cada vértice.
+    - 'average_degree': Grau médio do grafo.
+    - 'degree_distribution': Dicionário com a distribuição de graus.
+    - 'local_clustering_coefficient': Dicionário com o coeficiente de agrupamento local de cada vértice.
+    - 'average_clustering_coefficient': Coeficiente de agrupamento médio da rede.
+    - 'average_shortest_path_length': Menor caminho médio (apenas para componentes conectados).
+    - 'betweenness_centrality': Dicionário com a centralidade de intermediação de cada vértice.
+    - 'closeness_centrality': Dicionário com a centralidade de proximidade de cada vértice.
+    - 'eigenvector_centrality': Dicionário com a centralidade de autovetor de cada vértice.
+    - 'degree_assortativity_coefficient': Coeficiente de assortatividade por grau.
+  """
+  metrics = {}
+
+  print('Coleta de dados: números de vértices e arestas')
+  metrics['num_nodes'] = graph.number_of_nodes()
+  metrics['num_edges'] = graph.number_of_edges()
+
+  print('Coleta de dados: maior componente conexa')
+
+  if graph.number_of_nodes() > 0:
+    connected_components = list(nx.connected_components(graph))
+    if connected_components:
+      metrics['largest_connected_component_size'] = len(max(connected_components, key=len))
+    else:
+      metrics['largest_connected_component_size'] = 0
+  else:
+    metrics['largest_connected_component_size'] = 0
+
+  print('Coleta de dados: grau, grau médio e distribuição de graus')
+  degrees = dict(graph.degree())
+  metrics['degrees'] = degrees
+  metrics['average_degree'] = sum(d for n, d in graph.degree()) / len(graph) if len(graph) > 0 else 0
+
+  degree_counts = nx.degree_histogram(graph)
+  degree_distribution = {i: count for i, count in enumerate(degree_counts) if count > 0}
+  metrics['degree_distribution'] = degree_distribution
+
+  metrics['local_clustering_coefficient'] = nx.clustering(graph)
+
+  metrics['average_clustering_coefficient'] = nx.average_clustering(graph)
+
+  print('Coleta de dados: média da distância geodésica')
+  if nx.is_connected(graph):
+    metrics['average_shortest_path_length'] = nx.average_shortest_path_length(graph)
+  else:
+    components = [graph.subgraph(c).copy() for c in nx.connected_components(graph)]
+    if components:
+      largest_component = max(components, key=len)
+      if len(largest_component) > 1:
+        metrics['average_shortest_path_length'] = nx.average_shortest_path_length(largest_component)
+      else:
+        metrics['average_shortest_path_length'] = None
+    else:
+      metrics['average_shortest_path_length'] = None
+
+  print('Coleta de dados: centralidades')
+  metrics['betweenness_centrality'] = nx.betweenness_centrality(graph)
+  metrics['closeness_centrality'] = nx.closeness_centrality(graph)
+  
+  try:
+    metrics['eigenvector_centrality'] = nx.eigenvector_centrality(graph)
+  except nx.PowerIterationFailedConvergence:
+    metrics['eigenvector_centrality'] = "Could not converge"
+  except ValueError:
+    metrics['eigenvector_centrality'] = {}
+
+  print('Coleta de dados: assortatividade')
+  metrics['degree_assortativity_coefficient'] = nx.degree_assortativity_coefficient(graph)
+
+  return metrics
