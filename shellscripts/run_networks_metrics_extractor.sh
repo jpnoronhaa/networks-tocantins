@@ -29,9 +29,9 @@ fi
 
 echo "Ambiente $CONDA_ENV_NAME ativado e 'src' instalado."
 
-institutions=("ifto" "uft" "unitins" "ceulp" "tocantins" "ufnt")
+institutions=("tocantins")
 
-start_year=1998
+start_year=2023
 end_year=2024
 
 echo "Iniciando a análise de rede para várias instituições e anos..."
