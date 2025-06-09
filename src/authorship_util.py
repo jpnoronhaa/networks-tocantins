@@ -19,6 +19,7 @@ def extract_authors(df: pd.DataFrame) -> set:
       - 'institution': Lista de dicionários com 'id', 'display_name' e 'country_code' da instituição
   """
   authors_set = set()
+  authors_ids = set()
 
   author_columns = {
     'raw_author_name': 'authorships.raw_author_name',
@@ -45,9 +46,9 @@ def extract_authors(df: pd.DataFrame) -> set:
 
       author_id = author_ids[i] if i < len(author_ids) and pd.notna(author_ids[i]) and author_ids[i] != 'None' else None
 
-      if not author_id:
+      if not author_id or author_id in authors_ids:
         continue
-
+      authors_ids.add(author_id)
       author_info['id'] = author_id
 
       if i < len(display_names) and pd.notna(display_names[i]) and display_names[i] != 'None':
@@ -74,3 +75,21 @@ def extract_authors(df: pd.DataFrame) -> set:
       authors_set.add(frozenset(author_info.items()))
 
   return authors_set
+
+def extract_authors_ids(df: pd.DataFrame) -> set:
+  """
+  Extrai os IDS de autores de um DataFrame e retorna um set de autores únicos.
+
+  Args:
+    df (pd.DataFrame): O DataFrame contendo os dados dos trabalhos.
+
+  Returns:
+    set: Um set de ids.
+  """
+  authors_set_ids = set()
+
+  for _, row in df.iterrows():
+    authors_ids = row.get('authorships.author.id', '').split('|') if pd.notna(row.get('authorships.author.id')) else []
+    authors_set_ids.update(authors_ids)
+
+  return authors_set_ids

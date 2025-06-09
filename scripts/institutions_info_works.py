@@ -35,7 +35,7 @@ def main():
   args = parser.parse_args()
 
   csv_path = args.csv_path
-  output_json_path = args.output_json_pat
+  output_json_path = args.output_json_path
   target_institutions = args.target_institutions if args.target_institutions else []
 
   new_limit = sys.maxsize
