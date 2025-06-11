@@ -14,3 +14,7 @@ dependencies:
   - pandas
   - scienceplots
   - matplotlib
+  - powerlaw
+  - ipykernel
+  - pip:
+      - matplotlib-venn==1.1.2
