@@ -1,0 +1,55 @@
+{
+    "before_attack": {
+        "num_nodes": 24706,
+        "num_edges": 164249,
+        "largest_connected_component_size": 21211,
+        "global_efficiency": 0.14354998081948436
+    },
+    "after_attack": {
+        "num_nodes": 24676,
+        "num_edges": 157930,
+        "largest_connected_component_size": 20932,
+        "global_efficiency": 0.12690674445057504
+    },
+    "impact": {
+        "nodes_removed": 30,
+        "lcc_size_reduction_percent": 1.3153552402055537
+    },
+    "hubs_removed_info": {
+        "metric_used": "betweenness",
+        "source_metric_key": "betweenness_centrality",
+        "analysis_scope": "Largest Connected Component (LCC)",
+        "hubs_ids": [
+            "https://openalex.org/A5083553950",
+            "https://openalex.org/A5038833835",
+            "https://openalex.org/A5061469318",
+            "https://openalex.org/A5033077888",
+            "https://openalex.org/A5003713938",
+            "https://openalex.org/A5054472989",
+            "https://openalex.org/A5007440727",
+            "https://openalex.org/A5044998473",
+            "https://openalex.org/A5091549849",
+            "https://openalex.org/A5014373922",
+            "https://openalex.org/A5073558685",
+            "https://openalex.org/A5012599370",
+            "https://openalex.org/A5069097081",
+            "https://openalex.org/A5034679004",
+            "https://openalex.org/A5016302575",
+            "https://openalex.org/A5043357120",
+            "https://openalex.org/A5029716239",
+            "https://openalex.org/A5038294664",
+            "https://openalex.org/A5061635395",
+            "https://openalex.org/A5034079036",
+            "https://openalex.org/A5035853460",
+            "https://openalex.org/A5080212023",
+            "https://openalex.org/A5091110146",
+            "https://openalex.org/A5000475536",
+            "https://openalex.org/A5021276929",
+            "https://openalex.org/A5013870034",
+            "https://openalex.org/A5035533054",
+            "https://openalex.org/A5079636478",
+            "https://openalex.org/A5075725893",
+            "https://openalex.org/A5041937983"
+        ]
+    }
+}

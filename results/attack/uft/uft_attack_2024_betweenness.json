@@ -1,0 +1,45 @@
+{
+    "before_attack": {
+        "num_nodes": 24706,
+        "num_edges": 164249,
+        "largest_connected_component_size": 21211,
+        "global_efficiency": 0.14354998081948436
+    },
+    "after_attack": {
+        "num_nodes": 24686,
+        "num_edges": 159945,
+        "largest_connected_component_size": 21011,
+        "global_efficiency": 0.13120771130004216
+    },
+    "impact": {
+        "nodes_removed": 20,
+        "lcc_size_reduction_percent": 0.9429069822262035
+    },
+    "hubs_removed_info": {
+        "metric_used": "betweenness",
+        "source_metric_key": "betweenness_centrality",
+        "analysis_scope": "Largest Connected Component (LCC)",
+        "hubs_ids": [
+            "https://openalex.org/A5083553950",
+            "https://openalex.org/A5038833835",
+            "https://openalex.org/A5061469318",
+            "https://openalex.org/A5033077888",
+            "https://openalex.org/A5003713938",
+            "https://openalex.org/A5054472989",
+            "https://openalex.org/A5007440727",
+            "https://openalex.org/A5044998473",
+            "https://openalex.org/A5091549849",
+            "https://openalex.org/A5014373922",
+            "https://openalex.org/A5073558685",
+            "https://openalex.org/A5012599370",
+            "https://openalex.org/A5069097081",
+            "https://openalex.org/A5034679004",
+            "https://openalex.org/A5016302575",
+            "https://openalex.org/A5043357120",
+            "https://openalex.org/A5029716239",
+            "https://openalex.org/A5038294664",
+            "https://openalex.org/A5061635395",
+            "https://openalex.org/A5034079036"
+        ]
+    }
+}

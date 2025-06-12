@@ -1,0 +1,34 @@
+{
+    "before_attack": {
+        "num_nodes": 24706,
+        "num_edges": 164249,
+        "largest_connected_component_size": 21211,
+        "global_efficiency": 0.14354998081948436
+    },
+    "after_attack": {
+        "num_nodes": 24696,
+        "num_edges": 161970,
+        "largest_connected_component_size": 21136,
+        "global_efficiency": 0.138359078592901
+    },
+    "impact": {
+        "nodes_removed": 10,
+        "lcc_size_reduction_percent": 0.35359011833482623
+    },
+    "hubs_removed_info": {
+        "metric_used": "closeness",
+        "source_metric_key": "closeness_centrality",
+        "hubs_ids": [
+            "https://openalex.org/A5083553950",
+            "https://openalex.org/A5038833835",
+            "https://openalex.org/A5061469318",
+            "https://openalex.org/A5054472989",
+            "https://openalex.org/A5079636478",
+            "https://openalex.org/A5034679004",
+            "https://openalex.org/A5073558685",
+            "https://openalex.org/A5069097081",
+            "https://openalex.org/A5061915189",
+            "https://openalex.org/A5072386529"
+        ]
+    }
+}

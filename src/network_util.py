@@ -3,6 +3,7 @@ import pandas as pd
 from src.works_util import count_papers_by_year
 from src.authorship_util import extract_authors_ids
 from itertools import combinations
+import operator
 
 
 def generate_coauthorship_graph(df_works, df_authors):
@@ -153,3 +154,78 @@ def extract_graph_metrics(graph):
   metrics['degree_assortativity_coefficient'] = nx.degree_assortativity_coefficient(graph)
 
   return metrics
+
+
+def identify_hubs(centrality_dict, top_n=10):
+  """Identifica os N nós mais centrais (hubs) com base em um dicionário de centralidade.
+
+  Args:
+    centrality_dict (dict): Dicionário onde as chaves são os nós e os valores são suas centralidades.
+    top_n (int): O número de hubs a serem retornados.
+
+  Returns:
+    list: Uma lista com os IDs dos 'top_n' nós mais centrais.
+  """
+  if not centrality_dict:
+    return []
+  
+  sorted_nodes = sorted(centrality_dict.items(), key=operator.itemgetter(1), reverse=True)
+  
+  hubs = [node for node, centrality in sorted_nodes[:top_n]]
+  return hubs
+
+
+def analyze_network_attack(graph, nodes_to_remove):
+  """Simula a remoção de nós (ataque a hubs) e mede o impacto na rede.
+
+  Args:
+    graph (nx.Graph): O grafo original.
+    nodes_to_remove (list): A lista de nós (hubs) a serem removidos.
+
+  Returns:
+    dict: Um dicionário com as métricas da rede antes e depois da remoção,
+          incluindo o tamanho do maior componente conectado e a eficiência global.
+  """
+  analysis_results = {'before_attack': {}, 'after_attack': {}}
+
+  if nx.is_connected(graph):
+    lcc_size_before = len(graph)
+  else:
+    largest_component_nodes = max(nx.connected_components(graph), key=len)
+    lcc_size_before = len(largest_component_nodes)
+  
+  analysis_results['before_attack']['num_nodes'] = graph.number_of_nodes()
+  analysis_results['before_attack']['num_edges'] = graph.number_of_edges()
+  analysis_results['before_attack']['largest_connected_component_size'] = lcc_size_before
+  analysis_results['before_attack']['global_efficiency'] = nx.global_efficiency(graph)
+
+  attacked_graph = graph.copy()
+  attacked_graph.remove_nodes_from(nodes_to_remove)
+
+  if attacked_graph.number_of_nodes() > 0:
+    if nx.is_connected(attacked_graph):
+      lcc_size_after = len(attacked_graph)
+    else:
+      conn_comps = list(nx.connected_components(attacked_graph))
+      if conn_comps:
+        largest_component_nodes_after = max(conn_comps, key=len)
+        lcc_size_after = len(largest_component_nodes_after)
+      else:
+        lcc_size_after = 0
+    
+    global_efficiency_after = nx.global_efficiency(attacked_graph)
+  else:
+    lcc_size_after = 0
+    global_efficiency_after = 0
+
+  analysis_results['after_attack']['num_nodes'] = attacked_graph.number_of_nodes()
+  analysis_results['after_attack']['num_edges'] = attacked_graph.number_of_edges()
+  analysis_results['after_attack']['largest_connected_component_size'] = lcc_size_after
+  analysis_results['after_attack']['global_efficiency'] = global_efficiency_after
+  
+  analysis_results['impact'] = {
+    'nodes_removed': len(nodes_to_remove),
+    'lcc_size_reduction_percent': ((lcc_size_before - lcc_size_after) / lcc_size_before) * 100 if lcc_size_before > 0 else 0
+  }
+
+  return analysis_results
