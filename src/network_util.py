@@ -4,6 +4,10 @@ from src.works_util import count_papers_by_year
 from src.authorship_util import extract_authors_ids
 from itertools import combinations
 import operator
+import numpy as np
+from tqdm import tqdm
+from multiprocessing import Pool, cpu_count
+import warnings
 
 
 def generate_coauthorship_graph(df_works, df_authors):
@@ -155,7 +159,6 @@ def extract_graph_metrics(graph):
 
   return metrics
 
-
 def identify_hubs(centrality_dict, top_n=10):
   """Identifica os N nós mais centrais (hubs) com base em um dicionário de centralidade.
 
@@ -174,58 +177,132 @@ def identify_hubs(centrality_dict, top_n=10):
   hubs = [node for node, centrality in sorted_nodes[:top_n]]
   return hubs
 
-
-def analyze_network_attack(graph, nodes_to_remove):
-  """Simula a remoção de nós (ataque a hubs) e mede o impacto na rede.
-
-  Args:
-    graph (nx.Graph): O grafo original.
-    nodes_to_remove (list): A lista de nós (hubs) a serem removidos.
-
-  Returns:
-    dict: Um dicionário com as métricas da rede antes e depois da remoção,
-          incluindo o tamanho do maior componente conectado e a eficiência global.
+def network_attack_giant_component(
+    graph, 
+    metrics, 
+    frac_max=0.5, 
+    steps=10, 
+    strategies=[
+      'random',
+      'betweenness_centrality',
+      'closeness_centrality',
+      'eigenvector_centrality',
+      'degrees'
+    ]):
+  """ 
+  Simula um ataque a rede.
   """
-  analysis_results = {'before_attack': {}, 'after_attack': {}}
-
-  if nx.is_connected(graph):
-    lcc_size_before = len(graph)
-  else:
-    largest_component_nodes = max(nx.connected_components(graph), key=len)
-    lcc_size_before = len(largest_component_nodes)
+  results = {}
+  vertex_num = len(graph)
+  fractions = np.linspace(0, frac_max, steps)
+  step_vertex_num = [int(f * vertex_num) for f in fractions]
   
-  analysis_results['before_attack']['num_nodes'] = graph.number_of_nodes()
-  analysis_results['before_attack']['num_edges'] = graph.number_of_edges()
-  analysis_results['before_attack']['largest_connected_component_size'] = lcc_size_before
-  analysis_results['before_attack']['global_efficiency'] = nx.global_efficiency(graph)
-
-  attacked_graph = graph.copy()
-  attacked_graph.remove_nodes_from(nodes_to_remove)
-
-  if attacked_graph.number_of_nodes() > 0:
-    if nx.is_connected(attacked_graph):
-      lcc_size_after = len(attacked_graph)
-    else:
-      conn_comps = list(nx.connected_components(attacked_graph))
-      if conn_comps:
-        largest_component_nodes_after = max(conn_comps, key=len)
-        lcc_size_after = len(largest_component_nodes_after)
-      else:
-        lcc_size_after = 0
+  for strategy in strategies:
+    results[strategy] = []
+    graph_copy = graph.copy()
     
-    global_efficiency_after = nx.global_efficiency(attacked_graph)
-  else:
-    lcc_size_after = 0
-    global_efficiency_after = 0
-
-  analysis_results['after_attack']['num_nodes'] = attacked_graph.number_of_nodes()
-  analysis_results['after_attack']['num_edges'] = attacked_graph.number_of_edges()
-  analysis_results['after_attack']['largest_connected_component_size'] = lcc_size_after
-  analysis_results['after_attack']['global_efficiency'] = global_efficiency_after
+    for n_remove in tqdm(step_vertex_num, desc=f"Testando {strategy}"):
+      if strategy == 'random':
+        sorted_vertex = list(graph_copy.nodes())
+        np.random.shuffle(sorted_vertex)
+      else:
+        metric = metrics[strategy]
+        sorted_vertex = sorted(metric.keys(), key=lambda x: metric[x], reverse=True)
+      
+      for v in sorted_vertex[:n_remove]:
+        if v in graph_copy:
+          graph_copy.remove_node(v)
+      
+      if len(graph_copy) == 0:
+        lcc_percent = 0
+      else:
+        lcc_size = len(max(nx.connected_components(graph_copy), key=len))
+        lcc_percent = (lcc_size / vertex_num) * 100
+      
+      results[strategy].append(lcc_percent)
   
-  analysis_results['impact'] = {
-    'nodes_removed': len(nodes_to_remove),
-    'lcc_size_reduction_percent': ((lcc_size_before - lcc_size_after) / lcc_size_before) * 100 if lcc_size_before > 0 else 0
-  }
+  return step_vertex_num, results
 
-  return analysis_results
+def calculate_average_shortest_path(graph_copy, original_size):
+  """Calcula o menor caminho médio para um grafo, tratando casos desconexos."""
+  try:
+    if not nx.is_connected(graph_copy):
+      components = list(nx.connected_components(graph_copy))
+      total_path_length = 0
+      total_pairs = 0
+      
+      for component in components:
+        size = len(component)
+        if size > 1:
+          subgraph = graph_copy.subgraph(component)
+          path_length = nx.average_shortest_path_length(subgraph)
+          total_path_length += path_length * (size * (size - 1))
+          total_pairs += size * (size - 1)
+      
+      if total_pairs > 0:
+        return total_path_length / total_pairs
+      else:
+        return np.inf
+    else:
+      return nx.average_shortest_path_length(graph_copy)
+  except:
+    return np.inf
+
+def attack_simulation(args):
+  """Função para simular um ataque em paralelo."""
+  graph, strategy, metrics, n_remove, vertex_num = args
+  
+  graph_copy = graph.copy()
+  
+  if strategy == 'random':
+    sorted_vertex = list(graph_copy.nodes())
+    np.random.shuffle(sorted_vertex)
+  else:
+    metric = metrics[strategy]
+    sorted_vertex = sorted(metric.keys(), key=lambda x: metric[x], reverse=True)
+  
+  for v in sorted_vertex[:n_remove]:
+    if v in graph_copy:
+      graph_copy.remove_node(v)
+  
+  if len(graph_copy) == 0:
+    avg_path = np.inf
+  else:
+    avg_path = calculate_average_shortest_path(graph_copy, vertex_num)
+  
+  return avg_path
+
+def network_attack_shortest_path(
+    graph, 
+    metrics, 
+    frac_max=0.5, 
+    steps=10, 
+    strategies=[
+      'random',
+      'betweenness_centrality',
+      'closeness_centrality',
+      'eigenvector_centrality',
+      'degrees'
+    ],
+    n_workers=None):
+  """Simula um ataque a rede calculando o menor caminho médio."""
+  if n_workers is None:
+    n_workers = cpu_count() - 1 if cpu_count() > 1 else 1
+  
+  results = {}
+  vertex_num = len(graph)
+  fractions = np.linspace(0, frac_max, steps)
+  step_vertex_num = [int(f * vertex_num) for f in fractions]
+  
+  for strategy in strategies:
+    results[strategy] = []
+
+    args_list = [(graph.copy(), strategy, metrics, n_remove, vertex_num) for n_remove in step_vertex_num]
+    
+    with Pool(n_workers) as pool:
+      with tqdm(total=len(step_vertex_num), desc=f"Testando {strategy}") as pbar:
+        for _, result in enumerate(pool.imap(attack_simulation, args_list)):
+          results[strategy].append(result)
+          pbar.update()
+  
+  return step_vertex_num, results
