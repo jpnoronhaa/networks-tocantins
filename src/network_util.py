@@ -7,7 +7,6 @@ import operator
 import numpy as np
 from tqdm import tqdm
 from multiprocessing import Pool, cpu_count
-import warnings
 
 
 def generate_coauthorship_graph(df_works, df_authors):
@@ -223,34 +222,32 @@ def network_attack_giant_component(
   
   return step_vertex_num, results
 
-def calculate_average_shortest_path(graph_copy, original_size):
-  """Calcula o menor caminho médio para um grafo, tratando casos desconexos."""
-  try:
-    if not nx.is_connected(graph_copy):
-      components = list(nx.connected_components(graph_copy))
-      total_path_length = 0
-      total_pairs = 0
-      
-      for component in components:
-        size = len(component)
-        if size > 1:
-          subgraph = graph_copy.subgraph(component)
-          path_length = nx.average_shortest_path_length(subgraph)
-          total_path_length += path_length * (size * (size - 1))
-          total_pairs += size * (size - 1)
-      
-      if total_pairs > 0:
-        return total_path_length / total_pairs
-      else:
-        return np.inf
-    else:
-      return nx.average_shortest_path_length(graph_copy)
-  except:
+def calculate_average_shortest_path_lcc(graph_copy):
+  """
+  Calcula o menor caminho médio da Maior Componente Conexa (LCC) para um grafo.
+  Retorna np.inf se a LCC tiver menos de 2 nós (não há pares para calcular o caminho).
+  """
+  if not graph_copy.nodes():
     return np.inf
+
+  components = list(nx.connected_components(graph_copy))
+  if not components:
+    return np.inf
+
+  largest_component = max(components, key=len)
+
+  if len(largest_component) < 2:
+    return np.inf
+  else:
+    subgraph_lcc = graph_copy.subgraph(largest_component)
+    try:
+      return nx.average_shortest_path_length(subgraph_lcc)
+    except nx.NetworkXError:
+      return np.inf
 
 def attack_simulation(args):
   """Função para simular um ataque em paralelo."""
-  graph, strategy, metrics, n_remove, vertex_num = args
+  graph, strategy, metrics, n_remove = args
   
   graph_copy = graph.copy()
   
@@ -259,16 +256,14 @@ def attack_simulation(args):
     np.random.shuffle(sorted_vertex)
   else:
     metric = metrics[strategy]
-    sorted_vertex = sorted(metric.keys(), key=lambda x: metric[x], reverse=True)
+    sorted_vertex = sorted([node for node in metric.keys() if node in graph_copy], 
+                           key=lambda x: metric[x], reverse=True)
   
   for v in sorted_vertex[:n_remove]:
     if v in graph_copy:
       graph_copy.remove_node(v)
   
-  if len(graph_copy) == 0:
-    avg_path = np.inf
-  else:
-    avg_path = calculate_average_shortest_path(graph_copy, vertex_num)
+  avg_path = calculate_average_shortest_path_lcc(graph_copy)
   
   return avg_path
 
@@ -285,7 +280,7 @@ def network_attack_shortest_path(
       'degrees'
     ],
     n_workers=None):
-  """Simula um ataque a rede calculando o menor caminho médio."""
+  """Simula um ataque a rede calculando o menor caminho médio da LCC."""
   if n_workers is None:
     n_workers = cpu_count() - 1 if cpu_count() > 1 else 1
   
@@ -297,7 +292,7 @@ def network_attack_shortest_path(
   for strategy in strategies:
     results[strategy] = []
 
-    args_list = [(graph.copy(), strategy, metrics, n_remove, vertex_num) for n_remove in step_vertex_num]
+    args_list = [(graph.copy(), strategy, metrics, n_remove) for n_remove in step_vertex_num]
     
     with Pool(n_workers) as pool:
       with tqdm(total=len(step_vertex_num), desc=f"Testando {strategy}") as pbar:
