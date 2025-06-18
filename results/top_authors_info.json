@@ -1,0 +1,4571 @@
+[
+	{
+		"id": "https://openalex.org/A5038833835",
+		"display_name": "Paula B. Morais",
+		"ids": {
+			"openalex": "https://openalex.org/A5038833835",
+			"orcid": "https://orcid.org/0000-0002-5050-5766",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=7005946096&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 2.1666666666666665,
+			"h_index": 27,
+			"i10_index": 63
+		},
+		"works_count": 110
+	},
+	{
+		"id": "https://openalex.org/A5083553950",
+		"display_name": "Raphael S\u00e2nzio Pimenta",
+		"ids": {
+			"openalex": "https://openalex.org/A5083553950",
+			"orcid": "https://orcid.org/0000-0001-7207-4437",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=6603347120&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.8888888888888888,
+			"h_index": 21,
+			"i10_index": 31
+		},
+		"works_count": 108
+	},
+	{
+		"id": "https://openalex.org/A5047302328",
+		"display_name": "Heitor S. Ribeiro",
+		"ids": {
+			"openalex": "https://openalex.org/A5047302328",
+			"orcid": "https://orcid.org/0000-0002-4019-4490"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I150729083",
+				"ror": "https://ror.org/02xfp8v59",
+				"display_name": "Universidade de Bras\u00edlia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I150729083"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 4.21875,
+			"h_index": 11,
+			"i10_index": 12
+		},
+		"works_count": 94
+	},
+	{
+		"id": "https://openalex.org/A5088992413",
+		"display_name": "T\u00e1ssia Silvana Borges",
+		"ids": {
+			"openalex": "https://openalex.org/A5088992413",
+			"orcid": "https://orcid.org/0000-0002-0983-5261"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			},
+			{
+				"id": "https://openalex.org/I52977244",
+				"ror": "https://ror.org/02nmavx05",
+				"display_name": "Insper",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I52977244"]
+			},
+			{
+				"id": "https://openalex.org/I4210089926",
+				"ror": "https://ror.org/00amt5186",
+				"display_name": "Centro Universit\u00e1rio Lus\u00edada",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089926"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.125,
+			"h_index": 13,
+			"i10_index": 14
+		},
+		"works_count": 79
+	},
+	{
+		"id": "https://openalex.org/A5056977580",
+		"display_name": "S\u00edlvia Minharro",
+		"ids": {
+			"openalex": "https://openalex.org/A5056977580",
+			"orcid": "https://orcid.org/0000-0001-5844-5326",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=53877919600&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5,
+			"h_index": 9,
+			"i10_index": 9
+		},
+		"works_count": 69
+	},
+	{
+		"id": "https://openalex.org/A5109875217",
+		"display_name": "Marcus Andr\u00e9 Ribeiro Correia",
+		"ids": { "openalex": "https://openalex.org/A5109875217" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 9,
+			"i10_index": 7
+		},
+		"works_count": 37
+	},
+	{
+		"id": "https://openalex.org/A5071232290",
+		"display_name": "Darlene Teixeira Castro",
+		"ids": {
+			"openalex": "https://openalex.org/A5071232290",
+			"orcid": "https://orcid.org/0000-0003-1867-3804"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5,
+			"h_index": 2,
+			"i10_index": 0
+		},
+		"works_count": 32
+	},
+	{
+		"id": "https://openalex.org/A5104106951",
+		"display_name": "Camila Furlan",
+		"ids": { "openalex": "https://openalex.org/A5104106951" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I84554738",
+				"ror": "https://ror.org/05x2svh05",
+				"display_name": "Universidade Federal Rural do Semi-\u00c1rido",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I84554738"]
+			},
+			{
+				"id": "https://openalex.org/I130442723",
+				"ror": "https://ror.org/041yk2d64",
+				"display_name": "Universidade Federal do Rio Grande do Sul",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I130442723"]
+			},
+			{
+				"id": "https://openalex.org/I54203891",
+				"ror": "https://ror.org/03tah6c23",
+				"display_name": "Ferro (United States)",
+				"country_code": "US",
+				"type": "company",
+				"lineage": ["https://openalex.org/I54203891"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 30
+	},
+	{
+		"id": "https://openalex.org/A5051168129",
+		"display_name": "Paulo Victor Gomes Sales",
+		"ids": {
+			"openalex": "https://openalex.org/A5051168129",
+			"orcid": "https://orcid.org/0000-0002-4696-2737"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 3,
+			"i10_index": 2
+		},
+		"works_count": 27
+	},
+	{
+		"id": "https://openalex.org/A5099835462",
+		"display_name": "Margolis Iara",
+		"ids": { "openalex": "https://openalex.org/A5099835462" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5016478688",
+		"display_name": "Marcus Vin\u00edcius Moreira Barbosa",
+		"ids": {
+			"openalex": "https://openalex.org/A5016478688",
+			"orcid": "https://orcid.org/0000-0001-5015-2254"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 6,
+			"i10_index": 2
+		},
+		"works_count": 79
+	},
+	{
+		"id": "https://openalex.org/A5006045285",
+		"display_name": "Weimar Silva Castilho",
+		"ids": {
+			"openalex": "https://openalex.org/A5006045285",
+			"orcid": "https://orcid.org/0000-0002-5642-6049"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5714285714285714,
+			"h_index": 2,
+			"i10_index": 1
+		},
+		"works_count": 63
+	},
+	{
+		"id": "https://openalex.org/A5021379356",
+		"display_name": "Andr\u00e9 Lu\u00eds",
+		"ids": { "openalex": "https://openalex.org/A5021379356" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210114248",
+				"ror": "https://ror.org/02d7mxj93",
+				"display_name": "Benefic\u00eancia Portuguesa de S\u00e3o Paulo",
+				"country_code": "BR",
+				"type": "nonprofit",
+				"lineage": ["https://openalex.org/I4210114248"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 2,
+			"i10_index": 2
+		},
+		"works_count": 19
+	},
+	{
+		"id": "https://openalex.org/A5088639328",
+		"display_name": "Valc\u00ed Ferreira Victor",
+		"ids": {
+			"openalex": "https://openalex.org/A5088639328",
+			"orcid": "https://orcid.org/0000-0003-2935-5895"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5,
+			"h_index": 2,
+			"i10_index": 0
+		},
+		"works_count": 19
+	},
+	{
+		"id": "https://openalex.org/A5059511022",
+		"display_name": "Irenides Teixeira",
+		"ids": {
+			"openalex": "https://openalex.org/A5059511022",
+			"orcid": "https://orcid.org/0000-0002-6432-9767"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 16
+	},
+	{
+		"id": "https://openalex.org/A5036935956",
+		"display_name": "Jucim\u00e1ria Dantas Galv\u00e3o",
+		"ids": {
+			"openalex": "https://openalex.org/A5036935956",
+			"orcid": "https://orcid.org/0000-0002-8773-9224"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 6.0,
+			"h_index": 5,
+			"i10_index": 5
+		},
+		"works_count": 11
+	},
+	{
+		"id": "https://openalex.org/A5094256703",
+		"display_name": "Konnery Kazelly Marinho",
+		"ids": { "openalex": "https://openalex.org/A5094256703" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 10
+	},
+	{
+		"id": "https://openalex.org/A5089885217",
+		"display_name": "Roger Wilson Gon\u00e7alves de Oliveira",
+		"ids": {
+			"openalex": "https://openalex.org/A5089885217",
+			"orcid": "https://orcid.org/0000-0003-4639-2954"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210166303",
+				"ror": "https://ror.org/05je3gn27",
+				"display_name": "Centro Universit\u00e1rio do Rio Grande do Norte",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210166303"]
+			},
+			{
+				"id": "https://openalex.org/I4403386576",
+				"ror": "https://ror.org/006703856",
+				"display_name": "Faculdade Metropolitana de Manaus",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4403386576"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 12.6,
+			"h_index": 2,
+			"i10_index": 1
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5104150780",
+		"display_name": "Chagas Alves Do Nascimento",
+		"ids": { "openalex": "https://openalex.org/A5104150780" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			},
+			{
+				"id": "https://openalex.org/I62885914",
+				"ror": "https://ror.org/02263ky35",
+				"display_name": "Universidade Federal do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I62885914"]
+			},
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5004675048",
+		"display_name": "Thaizi Campos Barbossa",
+		"ids": { "openalex": "https://openalex.org/A5004675048" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210143330",
+				"ror": "https://ror.org/047s7ag77",
+				"display_name": "Faculdade de Medicina do ABC",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210143330"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 1
+	},
+	{
+		"id": "https://openalex.org/A5067608789",
+		"display_name": "Andr\u00e9 Ferreira dos Santos",
+		"ids": {
+			"openalex": "https://openalex.org/A5067608789",
+			"orcid": "https://orcid.org/0000-0003-0449-5111"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 6,
+			"i10_index": 1
+		},
+		"works_count": 103
+	},
+	{
+		"id": "https://openalex.org/A5034936621",
+		"display_name": "A. A. Pimenta",
+		"ids": {
+			"openalex": "https://openalex.org/A5034936621",
+			"orcid": "https://orcid.org/0000-0001-7263-0368"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I80849659",
+				"ror": "https://ror.org/04xbn6x09",
+				"display_name": "National Institute for Space Research",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": [
+					"https://openalex.org/I4210151455",
+					"https://openalex.org/I80849659"
+				]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.2857142857142857,
+			"h_index": 17,
+			"i10_index": 23
+		},
+		"works_count": 90
+	},
+	{
+		"id": "https://openalex.org/A5079636478",
+		"display_name": "Emerson Adriano Guarda",
+		"ids": {
+			"openalex": "https://openalex.org/A5079636478",
+			"orcid": "https://orcid.org/0000-0003-0227-3881",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=16039334200&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.06666666666666667,
+			"h_index": 8,
+			"i10_index": 8
+		},
+		"works_count": 69
+	},
+	{
+		"id": "https://openalex.org/A5103983740",
+		"display_name": "Helber V\u00e9ras Nunes",
+		"ids": { "openalex": "https://openalex.org/A5103983740" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.125,
+			"h_index": 5,
+			"i10_index": 3
+		},
+		"works_count": 48
+	},
+	{
+		"id": "https://openalex.org/A5020530674",
+		"display_name": "Deyla Paula de Oliveira",
+		"ids": {
+			"openalex": "https://openalex.org/A5020530674",
+			"orcid": "https://orcid.org/0000-0003-2929-8288",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=36117466100&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I23925101",
+				"ror": "https://ror.org/034vpja60",
+				"display_name": "Universidade Federal de Alfenas",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I23925101"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 7,
+			"i10_index": 5
+		},
+		"works_count": 39
+	},
+	{
+		"id": "https://openalex.org/A5033208905",
+		"display_name": "Valdirene C\u00e1ssia da Silva",
+		"ids": {
+			"openalex": "https://openalex.org/A5033208905",
+			"orcid": "https://orcid.org/0000-0002-1563-1222"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 3,
+			"i10_index": 0
+		},
+		"works_count": 15
+	},
+	{
+		"id": "https://openalex.org/A5017843595",
+		"display_name": "Ruth Bernardes de Lima Pereira",
+		"ids": {
+			"openalex": "https://openalex.org/A5017843595",
+			"orcid": "https://orcid.org/0000-0001-9598-7191"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			},
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 2,
+			"i10_index": 1
+		},
+		"works_count": 8
+	},
+	{
+		"id": "https://openalex.org/A5057188867",
+		"display_name": "Palma Monte",
+		"ids": { "openalex": "https://openalex.org/A5057188867" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5091917825",
+		"display_name": "Luciano Barroso de Albuquerque-Filho",
+		"ids": { "openalex": "https://openalex.org/A5091917825" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210122181",
+				"ror": "https://ror.org/02kt6vs55",
+				"display_name": "Unichristus",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210122181"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.2,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5020637143",
+		"display_name": "Paulo Guilherme M\u00fcller",
+		"ids": {
+			"openalex": "https://openalex.org/A5020637143",
+			"orcid": "https://orcid.org/0000-0001-9742-5774"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I169248161",
+				"ror": "https://ror.org/05msy9z54",
+				"display_name": "Universidade Federal de Pelotas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I169248161"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 3.0,
+			"h_index": 1,
+			"i10_index": 1
+		},
+		"works_count": 2
+	},
+	{
+		"id": "https://openalex.org/A5082460178",
+		"display_name": "Jean Carlos Santos",
+		"ids": {
+			"openalex": "https://openalex.org/A5082460178",
+			"orcid": "https://orcid.org/0000-0001-6031-9193",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=12797955000&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I190085865",
+				"ror": "https://ror.org/028ka0n85",
+				"display_name": "Universidade Federal de Sergipe",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I190085865"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.08909730363423213,
+			"h_index": 25,
+			"i10_index": 58
+		},
+		"works_count": 995
+	},
+	{
+		"id": "https://openalex.org/A5027457442",
+		"display_name": "Diogo Silva Vilela",
+		"ids": {
+			"openalex": "https://openalex.org/A5027457442",
+			"orcid": "https://orcid.org/0000-0001-6510-7018",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=55700233200&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210102163",
+				"ror": "https://ror.org/01drtms03",
+				"display_name": "Instituto Federal do Sul de Minas",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210102163"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.042007001166861145,
+			"h_index": 23,
+			"i10_index": 28
+		},
+		"works_count": 925
+	},
+	{
+		"id": "https://openalex.org/A5016302575",
+		"display_name": "Ant\u00f4nio Clementino dos Santos",
+		"ids": {
+			"openalex": "https://openalex.org/A5016302575",
+			"orcid": "https://orcid.org/0000-0001-7943-7923",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=55768660600&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210112693",
+				"ror": "https://ror.org/01w96sp43",
+				"display_name": "Universidade de Mar\u00edlia",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210112693"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.6666666666666666,
+			"h_index": 11,
+			"i10_index": 15
+		},
+		"works_count": 235
+	},
+	{
+		"id": "https://openalex.org/A5065892626",
+		"display_name": "Paulo S\u00e9rgio da Paz Silva Filho",
+		"ids": {
+			"openalex": "https://openalex.org/A5065892626",
+			"orcid": "https://orcid.org/0000-0003-4104-6550"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I3121799822",
+				"ror": "https://ror.org/00kwnx126",
+				"display_name": "Universidade Federal do Piau\u00ed",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I3121799822"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.07692307692307693,
+			"h_index": 6,
+			"i10_index": 6
+		},
+		"works_count": 115
+	},
+	{
+		"id": "https://openalex.org/A5033077888",
+		"display_name": "Sandro Estevan Moron",
+		"ids": {
+			"openalex": "https://openalex.org/A5033077888",
+			"orcid": "https://orcid.org/0000-0002-1359-6160"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.375,
+			"h_index": 12,
+			"i10_index": 16
+		},
+		"works_count": 69
+	},
+	{
+		"id": "https://openalex.org/A5000848336",
+		"display_name": "Augusto de Campos",
+		"ids": {
+			"openalex": "https://openalex.org/A5000848336",
+			"orcid": "https://orcid.org/0000-0003-4530-2945"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 3.0,
+			"h_index": 7,
+			"i10_index": 7
+		},
+		"works_count": 51
+	},
+	{
+		"id": "https://openalex.org/A5086785538",
+		"display_name": "Federico Lozano",
+		"ids": {
+			"openalex": "https://openalex.org/A5086785538",
+			"orcid": "https://orcid.org/0000-0002-8071-7567"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210166609",
+				"ror": "https://ror.org/05f05cy37",
+				"display_name": "National University of Avellaneda",
+				"country_code": "AR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210166609"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 2.0,
+			"h_index": 8,
+			"i10_index": 8
+		},
+		"works_count": 47
+	},
+	{
+		"id": "https://openalex.org/A5031802265",
+		"display_name": "Albano Dias Pereira Filho",
+		"ids": {
+			"openalex": "https://openalex.org/A5031802265",
+			"orcid": "https://orcid.org/0000-0002-6515-6335"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 37
+	},
+	{
+		"id": "https://openalex.org/A5094578893",
+		"display_name": "Guilherme Msc",
+		"ids": { "openalex": "https://openalex.org/A5094578893" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I84554738",
+				"ror": "https://ror.org/05x2svh05",
+				"display_name": "Universidade Federal Rural do Semi-\u00c1rido",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I84554738"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 6
+	},
+	{
+		"id": "https://openalex.org/A5039152345",
+		"display_name": "Ericsson Rubens Rodrigues Ferreira",
+		"ids": {
+			"openalex": "https://openalex.org/A5039152345",
+			"orcid": "https://orcid.org/0000-0003-4566-4583"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I4387152431",
+				"ror": "https://ror.org/04stx0g16",
+				"display_name": "Universidade Federal do Norte do Tocantins",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152431"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 4
+	},
+	{
+		"id": "https://openalex.org/A5007440727",
+		"display_name": "Ruhena Kelber Abr\u00e3o",
+		"ids": {
+			"openalex": "https://openalex.org/A5007440727",
+			"orcid": "https://orcid.org/0000-0002-5280-6263"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.47368421052631576,
+			"h_index": 6,
+			"i10_index": 2
+		},
+		"works_count": 133
+	},
+	{
+		"id": "https://openalex.org/A5062673545",
+		"display_name": "Marcelo Mendes Pedroza",
+		"ids": {
+			"openalex": "https://openalex.org/A5062673545",
+			"orcid": "https://orcid.org/0000-0001-8886-0053",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=55919142700&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.3076923076923077,
+			"h_index": 8,
+			"i10_index": 6
+		},
+		"works_count": 71
+	},
+	{
+		"id": "https://openalex.org/A5080784135",
+		"display_name": "Iolanda Graepp Fontoura",
+		"ids": {
+			"openalex": "https://openalex.org/A5080784135",
+			"orcid": "https://orcid.org/0000-0002-9201-480X"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I47327664",
+				"ror": "https://ror.org/043fhe951",
+				"display_name": "Universidade Federal do Maranh\u00e3o",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I47327664"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.8823529411764706,
+			"h_index": 7,
+			"i10_index": 5
+		},
+		"works_count": 48
+	},
+	{
+		"id": "https://openalex.org/A5009711300",
+		"display_name": "Concei\u00e7\u00e3o Aparecida Previero",
+		"ids": { "openalex": "https://openalex.org/A5009711300" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089926",
+				"ror": "https://ror.org/00amt5186",
+				"display_name": "Centro Universit\u00e1rio Lus\u00edada",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089926"]
+			},
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 2,
+			"i10_index": 1
+		},
+		"works_count": 37
+	},
+	{
+		"id": "https://openalex.org/A5090578819",
+		"display_name": "M\u00e1rio C\u00e9sar Sedrez",
+		"ids": {
+			"openalex": "https://openalex.org/A5090578819",
+			"orcid": "https://orcid.org/0000-0001-5610-0949"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			},
+			{
+				"id": "https://openalex.org/I4210151606",
+				"ror": "https://ror.org/047979f88",
+				"display_name": "\u00c1guas de Portugal (Portugal)",
+				"country_code": "PT",
+				"type": "company",
+				"lineage": ["https://openalex.org/I4210151606"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 18
+	},
+	{
+		"id": "https://openalex.org/A5086076315",
+		"display_name": "Guilherme Dourado Arag\u00e3o S\u00e1 Ara\u00fajo",
+		"ids": {
+			"openalex": "https://openalex.org/A5086076315",
+			"orcid": "https://orcid.org/0000-0003-0177-6276"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210122181",
+				"ror": "https://ror.org/02kt6vs55",
+				"display_name": "Unichristus",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210122181"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 17
+	},
+	{
+		"id": "https://openalex.org/A5000475536",
+		"display_name": "Jean Matheus Guedes Cardoso",
+		"ids": { "openalex": "https://openalex.org/A5000475536" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I116191961",
+				"ror": "https://ror.org/017kqpz20",
+				"display_name": "Northern (Arctic) Federal University",
+				"country_code": "RU",
+				"type": "education",
+				"lineage": ["https://openalex.org/I116191961"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 9
+	},
+	{
+		"id": "https://openalex.org/A5041937983",
+		"display_name": "Luisa Sousa Machado",
+		"ids": {
+			"openalex": "https://openalex.org/A5041937983",
+			"orcid": "https://orcid.org/0000-0001-9083-732X"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 7
+	},
+	{
+		"id": "https://openalex.org/A5099835449",
+		"display_name": "Profa Eloisa",
+		"ids": { "openalex": "https://openalex.org/A5099835449" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			},
+			{
+				"id": "https://openalex.org/I80850581",
+				"ror": "https://ror.org/04x3wvr31",
+				"display_name": "Universidade Federal de Uberl\u00e2ndia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I80850581"]
+			},
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5109634367",
+		"display_name": "Wagna Oliveira Da Silva",
+		"ids": { "openalex": "https://openalex.org/A5109634367" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			},
+			{
+				"id": "https://openalex.org/I4210135669",
+				"ror": "https://ror.org/04dcx0979",
+				"display_name": "Centro Universit\u00e1rio Una",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135669"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 3
+	},
+	{
+		"id": "https://openalex.org/A5080212023",
+		"display_name": "Raimundo Wagner de Souza Aguiar",
+		"ids": {
+			"openalex": "https://openalex.org/A5080212023",
+			"orcid": "https://orcid.org/0000-0002-5169-4968"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.6842105263157894,
+			"h_index": 21,
+			"i10_index": 36
+		},
+		"works_count": 159
+	},
+	{
+		"id": "https://openalex.org/A5061635395",
+		"display_name": "Fernando Rodrigues Peixoto Quaresma",
+		"ids": {
+			"openalex": "https://openalex.org/A5061635395",
+			"orcid": "https://orcid.org/0000-0001-8407-0310"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.9166666666666666,
+			"h_index": 10,
+			"i10_index": 10
+		},
+		"works_count": 133
+	},
+	{
+		"id": "https://openalex.org/A5086124493",
+		"display_name": "Wagner dos Santos Mariano",
+		"ids": {
+			"openalex": "https://openalex.org/A5086124493",
+			"orcid": "https://orcid.org/0000-0003-0225-6889"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I4387152431",
+				"ror": "https://ror.org/04stx0g16",
+				"display_name": "Universidade Federal do Norte do Tocantins",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152431"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.29411764705882354,
+			"h_index": 4,
+			"i10_index": 1
+		},
+		"works_count": 77
+	},
+	{
+		"id": "https://openalex.org/A5090629349",
+		"display_name": "Francisco Alves Lima J\u00fanior",
+		"ids": {
+			"openalex": "https://openalex.org/A5090629349",
+			"orcid": "https://orcid.org/0000-0002-3117-4949"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.125,
+			"h_index": 2,
+			"i10_index": 0
+		},
+		"works_count": 54
+	},
+	{
+		"id": "https://openalex.org/A5070123607",
+		"display_name": "Wagner de Melo Ferreira",
+		"ids": {
+			"openalex": "https://openalex.org/A5070123607",
+			"orcid": "https://orcid.org/0000-0002-7805-2180"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 12,
+			"i10_index": 13
+		},
+		"works_count": 40
+	},
+	{
+		"id": "https://openalex.org/A5062832514",
+		"display_name": "Raimundo Laerton de Lima Leite",
+		"ids": {
+			"openalex": "https://openalex.org/A5062832514",
+			"orcid": "https://orcid.org/0000-0002-5165-1271"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 4,
+			"i10_index": 1
+		},
+		"works_count": 23
+	},
+	{
+		"id": "https://openalex.org/A5089776073",
+		"display_name": "Jane Darley Alves dos Santos",
+		"ids": {
+			"openalex": "https://openalex.org/A5089776073",
+			"orcid": "https://orcid.org/0000-0001-7638-2189"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I4387152431",
+				"ror": "https://ror.org/04stx0g16",
+				"display_name": "Universidade Federal do Norte do Tocantins",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152431"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 10
+	},
+	{
+		"id": "https://openalex.org/A5000429444",
+		"display_name": "Ol\u00edvia de Campos Maia Pereira",
+		"ids": {
+			"openalex": "https://openalex.org/A5000429444",
+			"orcid": "https://orcid.org/0000-0003-1929-7281"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 9
+	},
+	{
+		"id": "https://openalex.org/A5094578907",
+		"display_name": "Anelisa Msc",
+		"ids": { "openalex": "https://openalex.org/A5094578907" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I84554738",
+				"ror": "https://ror.org/05x2svh05",
+				"display_name": "Universidade Federal Rural do Semi-\u00c1rido",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I84554738"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 4
+	},
+	{
+		"id": "https://openalex.org/A5093278804",
+		"display_name": "Sandra Isamar da Silva Leandro",
+		"ids": { "openalex": "https://openalex.org/A5093278804" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 3
+	},
+	{
+		"id": "https://openalex.org/A5050737879",
+		"display_name": "Alonso Ram\u00edrez",
+		"ids": {
+			"openalex": "https://openalex.org/A5050737879",
+			"orcid": "https://orcid.org/0000-0001-9985-5719"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I137902535",
+				"ror": "https://ror.org/04tj63d06",
+				"display_name": "North Carolina State University",
+				"country_code": "US",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I137902535"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.3529411764705883,
+			"h_index": 37,
+			"i10_index": 75
+		},
+		"works_count": 185
+	},
+	{
+		"id": "https://openalex.org/A5075663149",
+		"display_name": "Michele Ribeiro Ramos",
+		"ids": {
+			"openalex": "https://openalex.org/A5075663149",
+			"orcid": "https://orcid.org/0000-0002-4818-4713"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.18181818181818182,
+			"h_index": 6,
+			"i10_index": 5
+		},
+		"works_count": 57
+	},
+	{
+		"id": "https://openalex.org/A5064888024",
+		"display_name": "Rivad\u00e1via Porto Cavalcante",
+		"ids": {
+			"openalex": "https://openalex.org/A5064888024",
+			"orcid": "https://orcid.org/0000-0002-6568-7910"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.47619047619047616,
+			"h_index": 5,
+			"i10_index": 1
+		},
+		"works_count": 56
+	},
+	{
+		"id": "https://openalex.org/A5078759911",
+		"display_name": "Renato Torres Pinheiro",
+		"ids": {
+			"openalex": "https://openalex.org/A5078759911",
+			"orcid": "https://orcid.org/0000-0002-5799-0872"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.25,
+			"h_index": 11,
+			"i10_index": 14
+		},
+		"works_count": 44
+	},
+	{
+		"id": "https://openalex.org/A5037345050",
+		"display_name": "Bibiano Madrid",
+		"ids": {
+			"openalex": "https://openalex.org/A5037345050",
+			"orcid": "https://orcid.org/0000-0003-1355-5788"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			},
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 8,
+			"i10_index": 5
+		},
+		"works_count": 36
+	},
+	{
+		"id": "https://openalex.org/A5056895443",
+		"display_name": "Thiago Pereira Mendes",
+		"ids": {
+			"openalex": "https://openalex.org/A5056895443",
+			"orcid": "https://orcid.org/0000-0002-9369-3672"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210148707",
+				"ror": "https://ror.org/04ja5n907",
+				"display_name": "Universidade Estadual do Maranh\u00e3o",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210148707"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 11.0,
+			"h_index": 10,
+			"i10_index": 10
+		},
+		"works_count": 18
+	},
+	{
+		"id": "https://openalex.org/A5099835455",
+		"display_name": "Julio On\u00e9sio",
+		"ids": { "openalex": "https://openalex.org/A5099835455" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I17974374",
+				"ror": "https://ror.org/036rp1748",
+				"display_name": "Universidade de S\u00e3o Paulo",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I17974374"]
+			},
+			{
+				"id": "https://openalex.org/I4210165725",
+				"ror": "https://ror.org/05te7m660",
+				"display_name": "Servi\u00e7o Nacional de Aprendizagem Comercial",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210165725"]
+			},
+			{
+				"id": "https://openalex.org/I3131883934",
+				"ror": "https://ror.org/0057ag334",
+				"display_name": "Agostinho Neto University",
+				"country_code": "AO",
+				"type": "education",
+				"lineage": ["https://openalex.org/I3131883934"]
+			},
+			{
+				"id": "https://openalex.org/I72872986",
+				"ror": "https://ror.org/003qt4p19",
+				"display_name": "Universidade Federal do Pampa",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I72872986"]
+			},
+			{
+				"id": "https://openalex.org/I4210158596",
+				"ror": "https://ror.org/052073c89",
+				"display_name": "Prefeitura Municipal de Vit\u00f3ria",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210158596"]
+			},
+			{
+				"id": "https://openalex.org/I1283613182",
+				"ror": "https://ror.org/002v2kq79",
+				"display_name": "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I1283613182"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I21803372",
+				"ror": "https://ror.org/02gyps716",
+				"display_name": "University of \u00c9vora",
+				"country_code": "PT",
+				"type": "education",
+				"lineage": ["https://openalex.org/I21803372"]
+			},
+			{
+				"id": "https://openalex.org/I4210133832",
+				"ror": "https://ror.org/03cxsty68",
+				"display_name": "Universidade Estadual do Centro-Oeste",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210133832"]
+			},
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			},
+			{
+				"id": "https://openalex.org/I270441400",
+				"ror": "https://ror.org/007qd1t98",
+				"display_name": "Rio de Janeiro Federal Institute of Education, Science and Technology",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I270441400"]
+			},
+			{
+				"id": "https://openalex.org/I1317776637",
+				"ror": "https://ror.org/05hag2y10",
+				"display_name": "Universidade Federal do Acre",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I1317776637"]
+			},
+			{
+				"id": "https://openalex.org/I181391015",
+				"ror": "https://ror.org/04wffgt70",
+				"display_name": "Universidade Estadual de Campinas (UNICAMP)",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I181391015"]
+			},
+			{
+				"id": "https://openalex.org/I4210100888",
+				"ror": "https://ror.org/015xjsg96",
+				"display_name": "Universidade Tiradentes",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210100888"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5021984740",
+		"display_name": "Maria Gir\u00e3o",
+		"ids": { "openalex": "https://openalex.org/A5021984740" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210122181",
+				"ror": "https://ror.org/02kt6vs55",
+				"display_name": "Unichristus",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210122181"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 3
+	},
+	{
+		"id": "https://openalex.org/A5093278805",
+		"display_name": "Karoliny de Lima Nardin",
+		"ids": {
+			"openalex": "https://openalex.org/A5093278805",
+			"orcid": "https://orcid.org/0009-0003-3745-3863"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I98466806",
+				"ror": "https://ror.org/00sfmx060",
+				"display_name": "Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I98466806"]
+			},
+			{
+				"id": "https://openalex.org/I4210086846",
+				"ror": "https://ror.org/003ct7658",
+				"display_name": "Centro Universit\u00e1rio Cat\u00f3lico Salesiano Auxilium",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210086846"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 3
+	},
+	{
+		"id": "https://openalex.org/A5071061513",
+		"display_name": "\u00c9ster Cerdeira Sabino",
+		"ids": {
+			"openalex": "https://openalex.org/A5071061513",
+			"orcid": "https://orcid.org/0000-0003-2623-5126"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I17974374",
+				"ror": "https://ror.org/036rp1748",
+				"display_name": "Universidade de S\u00e3o Paulo",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I17974374"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 4.025,
+			"h_index": 67,
+			"i10_index": 320
+		},
+		"works_count": 783
+	},
+	{
+		"id": "https://openalex.org/A5013870034",
+		"display_name": "Fabr\u00edcio Souza Campos",
+		"ids": {
+			"openalex": "https://openalex.org/A5013870034",
+			"orcid": "https://orcid.org/0000-0002-5948-472X",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=35073585800&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I130442723",
+				"ror": "https://ror.org/041yk2d64",
+				"display_name": "Universidade Federal do Rio Grande do Sul",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I130442723"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 2.9310344827586206,
+			"h_index": 21,
+			"i10_index": 38
+		},
+		"works_count": 144
+	},
+	{
+		"id": "https://openalex.org/A5076408981",
+		"display_name": "Daniella Pires Nunes",
+		"ids": {
+			"openalex": "https://openalex.org/A5076408981",
+			"orcid": "https://orcid.org/0000-0002-4679-0373"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I181391015",
+				"ror": "https://ror.org/04wffgt70",
+				"display_name": "Universidade Estadual de Campinas (UNICAMP)",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I181391015"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.9666666666666666,
+			"h_index": 19,
+			"i10_index": 30
+		},
+		"works_count": 131
+	},
+	{
+		"id": "https://openalex.org/A5003713938",
+		"display_name": "Elineide Eug\u00eanio Marques",
+		"ids": {
+			"openalex": "https://openalex.org/A5003713938",
+			"orcid": "https://orcid.org/0000-0003-0223-6853"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 3.909090909090909,
+			"h_index": 20,
+			"i10_index": 28
+		},
+		"works_count": 95
+	},
+	{
+		"id": "https://openalex.org/A5078887452",
+		"display_name": "Solange de F\u00e1tima L\u00f3lis",
+		"ids": {
+			"openalex": "https://openalex.org/A5078887452",
+			"orcid": "https://orcid.org/0000-0002-2413-1668"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I80850581",
+				"ror": "https://ror.org/04x3wvr31",
+				"display_name": "Universidade Federal de Uberl\u00e2ndia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I80850581"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.25,
+			"h_index": 4,
+			"i10_index": 3
+		},
+		"works_count": 20
+	},
+	{
+		"id": "https://openalex.org/A5023482456",
+		"display_name": "Camilla Costa Sallem",
+		"ids": {
+			"openalex": "https://openalex.org/A5023482456",
+			"orcid": "https://orcid.org/0000-0003-2869-5337"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210122181",
+				"ror": "https://ror.org/02kt6vs55",
+				"display_name": "Unichristus",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210122181"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 6.181818181818182,
+			"h_index": 2,
+			"i10_index": 1
+		},
+		"works_count": 13
+	},
+	{
+		"id": "https://openalex.org/A5102925005",
+		"display_name": "Lucas Oliveira Nepomuceno de Alc\u00e2ntara",
+		"ids": {
+			"openalex": "https://openalex.org/A5102925005",
+			"orcid": "https://orcid.org/0009-0001-6350-4965"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 11
+	},
+	{
+		"id": "https://openalex.org/A5009929385",
+		"display_name": "Idelina Gomes da Silva",
+		"ids": {
+			"openalex": "https://openalex.org/A5009929385",
+			"orcid": "https://orcid.org/0000-0002-6165-5612"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I59606676",
+				"ror": "https://ror.org/03q9sr818",
+				"display_name": "Universidade Federal do Par\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I59606676"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 3.0,
+			"h_index": 3,
+			"i10_index": 2
+		},
+		"works_count": 8
+	},
+	{
+		"id": "https://openalex.org/A5099835459",
+		"display_name": "Maria Xaene",
+		"ids": { "openalex": "https://openalex.org/A5099835459" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I304370547",
+				"ror": "https://ror.org/029jgxb70",
+				"display_name": "Centro Universit\u00e1rio Curitiba",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I304370547"]
+			},
+			{
+				"id": "https://openalex.org/I4210126709",
+				"ror": "https://ror.org/02d7xrh88",
+				"display_name": "Secretaria da Educa\u00e7\u00e3o do Estado da Bahia",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210126709"]
+			},
+			{
+				"id": "https://openalex.org/I62885914",
+				"ror": "https://ror.org/02263ky35",
+				"display_name": "Universidade Federal do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I62885914"]
+			},
+			{
+				"id": "https://openalex.org/I1283613182",
+				"ror": "https://ror.org/002v2kq79",
+				"display_name": "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I1283613182"]
+			},
+			{
+				"id": "https://openalex.org/I80850581",
+				"ror": "https://ror.org/04x3wvr31",
+				"display_name": "Universidade Federal de Uberl\u00e2ndia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I80850581"]
+			},
+			{
+				"id": "https://openalex.org/I4210135412",
+				"ror": "https://ror.org/031va9m79",
+				"display_name": "Universidade Federal do Amap\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135412"]
+			},
+			{
+				"id": "https://openalex.org/I166595947",
+				"ror": "https://ror.org/03vrj4p82",
+				"display_name": "Federal University of S\u00e3o Jo\u00e3o del-Rei",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I166595947"]
+			},
+			{
+				"id": "https://openalex.org/I81009624",
+				"ror": "https://ror.org/045ae7j03",
+				"display_name": "Universidade S\u00e3o Francisco",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I81009624"]
+			},
+			{
+				"id": "https://openalex.org/I177909021",
+				"ror": "https://ror.org/00qdc6m37",
+				"display_name": "Universidade Federal de S\u00e3o Carlos",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I177909021"]
+			},
+			{
+				"id": "https://openalex.org/I4210147594",
+				"ror": "https://ror.org/04j5z3x06",
+				"display_name": "Universidade do Estado do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210147594"]
+			},
+			{
+				"id": "https://openalex.org/I4210132153",
+				"ror": "https://ror.org/03gq9pd80",
+				"display_name": "Instituto Federal de Goi\u00e1s",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210132153"]
+			},
+			{
+				"id": "https://openalex.org/I51235708",
+				"ror": "https://ror.org/05sxf4h28",
+				"display_name": "Universidade Federal do Esp\u00edrito Santo",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I51235708"]
+			},
+			{
+				"id": "https://openalex.org/I68207295",
+				"ror": "https://ror.org/027s08w94",
+				"display_name": "Universidade Estadual de Ponta Grossa",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I68207295"]
+			},
+			{
+				"id": "https://openalex.org/I4210145392",
+				"ror": "https://ror.org/04aercx33",
+				"display_name": "Hospital Ana Nery",
+				"country_code": "BR",
+				"type": "healthcare",
+				"lineage": ["https://openalex.org/I4210145392"]
+			},
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			},
+			{
+				"id": "https://openalex.org/I879563668",
+				"ror": "https://ror.org/00987cb86",
+				"display_name": "Universidade Estadual Paulista (Unesp)",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I879563668"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I4210135669",
+				"ror": "https://ror.org/04dcx0979",
+				"display_name": "Centro Universit\u00e1rio Una",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135669"]
+			},
+			{
+				"id": "https://openalex.org/I123443094",
+				"ror": "https://ror.org/04bqqa360",
+				"display_name": "Universidade Estadual de Maring\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I123443094"]
+			},
+			{
+				"id": "https://openalex.org/I59606676",
+				"ror": "https://ror.org/03q9sr818",
+				"display_name": "Universidade Federal do Par\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I59606676"]
+			},
+			{
+				"id": "https://openalex.org/I4210092060",
+				"ror": "https://ror.org/00cp8ee37",
+				"display_name": "Prefeitura Municipal de Alto Alegre",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210092060"]
+			},
+			{
+				"id": "https://openalex.org/I4210090750",
+				"ror": "https://ror.org/00a4xxf76",
+				"display_name": "Universidade Federal do Cariri",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210090750"]
+			},
+			{
+				"id": "https://openalex.org/I4210102132",
+				"ror": "https://ror.org/01b55ta41",
+				"display_name": "Conselho Nacional de Pesquisa e P\u00f3s-gradua\u00e7\u00e3o em Direito",
+				"country_code": "BR",
+				"type": "facility",
+				"lineage": ["https://openalex.org/I4210102132"]
+			},
+			{
+				"id": "https://openalex.org/I4210158596",
+				"ror": "https://ror.org/052073c89",
+				"display_name": "Prefeitura Municipal de Vit\u00f3ria",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210158596"]
+			},
+			{
+				"id": "https://openalex.org/I72872986",
+				"ror": "https://ror.org/003qt4p19",
+				"display_name": "Universidade Federal do Pampa",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I72872986"]
+			},
+			{
+				"id": "https://openalex.org/I4210101723",
+				"ror": "https://ror.org/014hvfk26",
+				"display_name": "UniFG Centro Universit\u00e1rio",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210101723"]
+			},
+			{
+				"id": "https://openalex.org/I4210112416",
+				"ror": "https://ror.org/02239nd21",
+				"display_name": "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Par\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I1293487690",
+					"https://openalex.org/I2801200668",
+					"https://openalex.org/I4210112416"
+				]
+			},
+			{
+				"id": "https://openalex.org/I1316675753",
+				"ror": "https://ror.org/015n1m812",
+				"display_name": "Universidade do Estado da Bahia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I1316675753"]
+			},
+			{
+				"id": "https://openalex.org/I4210114476",
+				"ror": "https://ror.org/0261qja04",
+				"display_name": "Universidade Estadual do Norte do Paran\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210114476"]
+			},
+			{
+				"id": "https://openalex.org/I181391015",
+				"ror": "https://ror.org/04wffgt70",
+				"display_name": "Universidade Estadual de Campinas (UNICAMP)",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I181391015"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5040520525",
+		"display_name": "Andressa Caroline Silva Leit\u00e3o Gomes",
+		"ids": {
+			"openalex": "https://openalex.org/A5040520525",
+			"orcid": "https://orcid.org/0000-0001-7962-4761"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 3
+	},
+	{
+		"id": "https://openalex.org/A5080286629",
+		"display_name": "Ulisses Gaspar Neiss",
+		"ids": {
+			"openalex": "https://openalex.org/A5080286629",
+			"orcid": "https://orcid.org/0000-0002-2844-7061"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I187079419",
+				"ror": "https://ror.org/01xe86309",
+				"display_name": "National Institute of Amazonian Research",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I187079419"]
+			},
+			{
+				"id": "https://openalex.org/I880818075",
+				"ror": "https://ror.org/01hmd1y41",
+				"display_name": "Federal Police of Brazil",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": [
+					"https://openalex.org/I2801200668",
+					"https://openalex.org/I4210115982",
+					"https://openalex.org/I880818075"
+				]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.007228915662650603,
+			"h_index": 10,
+			"i10_index": 10
+		},
+		"works_count": 879
+	},
+	{
+		"id": "https://openalex.org/A5019531961",
+		"display_name": "W. L. C. Lima",
+		"ids": { "openalex": "https://openalex.org/A5019531961" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I21669347",
+				"ror": "https://ror.org/04ykrg907",
+				"display_name": "Atlantic University",
+				"country_code": "US",
+				"type": "education",
+				"lineage": ["https://openalex.org/I21669347"]
+			},
+			{
+				"id": "https://openalex.org/I63772739",
+				"ror": "https://ror.org/05p8w6387",
+				"display_name": "Florida Atlantic University",
+				"country_code": "US",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I63772739"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 17,
+			"i10_index": 21
+		},
+		"works_count": 48
+	},
+	{
+		"id": "https://openalex.org/A5002753171",
+		"display_name": "Rodolfo Alves da Luz",
+		"ids": {
+			"openalex": "https://openalex.org/A5002753171",
+			"orcid": "https://orcid.org/0000-0002-6608-4898"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.5,
+			"h_index": 6,
+			"i10_index": 1
+		},
+		"works_count": 36
+	},
+	{
+		"id": "https://openalex.org/A5006832516",
+		"display_name": "Sabino Pereira da Silva Neto",
+		"ids": {
+			"openalex": "https://openalex.org/A5006832516",
+			"orcid": "https://orcid.org/0000-0003-0137-1391",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=35791595100&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 6,
+			"i10_index": 1
+		},
+		"works_count": 33
+	},
+	{
+		"id": "https://openalex.org/A5069993052",
+		"display_name": "S\u00edlvia Leit\u00e3o Dutra",
+		"ids": {
+			"openalex": "https://openalex.org/A5069993052",
+			"orcid": "https://orcid.org/0000-0003-2038-2686"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4387152431",
+				"ror": "https://ror.org/04stx0g16",
+				"display_name": "Universidade Federal do Norte do Tocantins",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152431"]
+			},
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 19.0,
+			"h_index": 5,
+			"i10_index": 4
+		},
+		"works_count": 10
+	},
+	{
+		"id": "https://openalex.org/A5099835452",
+		"display_name": "Amaral Dal\u00edzia",
+		"ids": { "openalex": "https://openalex.org/A5099835452" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5099835458",
+		"display_name": "Pimentel Rosenery",
+		"ids": { "openalex": "https://openalex.org/A5099835458" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I62885914",
+				"ror": "https://ror.org/02263ky35",
+				"display_name": "Universidade Federal do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I62885914"]
+			},
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			},
+			{
+				"id": "https://openalex.org/I80850581",
+				"ror": "https://ror.org/04x3wvr31",
+				"display_name": "Universidade Federal de Uberl\u00e2ndia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I80850581"]
+			},
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			},
+			{
+				"id": "https://openalex.org/I4210135669",
+				"ror": "https://ror.org/04dcx0979",
+				"display_name": "Centro Universit\u00e1rio Una",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135669"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5065871089",
+		"display_name": "Kenia Regina Streich",
+		"ids": { "openalex": "https://openalex.org/A5065871089" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210157083",
+				"ror": "https://ror.org/0568kxy29",
+				"display_name": "UniBrasil Centro Universit\u00e1rio",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210157083"]
+			},
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 4
+	},
+	{
+		"id": "https://openalex.org/A5114095513",
+		"display_name": "Thulyo Monteiro Moraes",
+		"ids": { "openalex": "https://openalex.org/A5114095513" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 2
+	},
+	{
+		"id": "https://openalex.org/A5085791389",
+		"display_name": "Ana Ilian Santos Fonseca",
+		"ids": { "openalex": "https://openalex.org/A5085791389" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			},
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 1
+	},
+	{
+		"id": "https://openalex.org/A5083339670",
+		"display_name": "P. R. Fagundes",
+		"ids": {
+			"openalex": "https://openalex.org/A5083339670",
+			"orcid": "https://orcid.org/0000-0003-3764-2202"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I122523194",
+				"ror": "https://ror.org/02gt27w49",
+				"display_name": "Universidade do Vale do Para\u00edba",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I122523194"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.6363636363636365,
+			"h_index": 34,
+			"i10_index": 108
+		},
+		"works_count": 292
+	},
+	{
+		"id": "https://openalex.org/A5061469318",
+		"display_name": "Jo\u00eanes Mucci Pel\u00fazio",
+		"ids": {
+			"openalex": "https://openalex.org/A5061469318",
+			"orcid": "https://orcid.org/0000-0002-9336-2072",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=35113735200&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5789473684210527,
+			"h_index": 14,
+			"i10_index": 26
+		},
+		"works_count": 254
+	},
+	{
+		"id": "https://openalex.org/A5073558685",
+		"display_name": "Jos\u00e9 Gerley D\u00edaz Castro",
+		"ids": {
+			"openalex": "https://openalex.org/A5073558685",
+			"orcid": "https://orcid.org/0000-0002-7993-015X"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I285663978",
+				"ror": "https://ror.org/02xwsbr93",
+				"display_name": "Weatherford College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": ["https://openalex.org/I285663978"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 7,
+			"i10_index": 6
+		},
+		"works_count": 65
+	},
+	{
+		"id": "https://openalex.org/A5086394963",
+		"display_name": "Lu\u00eds Fernando Castagnino Sesti",
+		"ids": {
+			"openalex": "https://openalex.org/A5086394963",
+			"orcid": "https://orcid.org/0000-0002-4322-9353"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			},
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.5,
+			"h_index": 4,
+			"i10_index": 3
+		},
+		"works_count": 32
+	},
+	{
+		"id": "https://openalex.org/A5034981855",
+		"display_name": "Jackson Gomes de Souza",
+		"ids": {
+			"openalex": "https://openalex.org/A5034981855",
+			"orcid": "https://orcid.org/0000-0003-0665-7153"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I35046152",
+				"ror": "https://ror.org/04wn09761",
+				"display_name": "Universidade Federal do Rio Grande do Norte",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I35046152"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 5.5,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 11
+	},
+	{
+		"id": "https://openalex.org/A5020424591",
+		"display_name": "Silva Gomes",
+		"ids": { "openalex": "https://openalex.org/A5020424591" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I62885914",
+				"ror": "https://ror.org/02263ky35",
+				"display_name": "Universidade Federal do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I62885914"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 10
+	},
+	{
+		"id": "https://openalex.org/A5059721159",
+		"display_name": "Oliveira Carvalho",
+		"ids": { "openalex": "https://openalex.org/A5059721159" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I80850581",
+				"ror": "https://ror.org/04x3wvr31",
+				"display_name": "Universidade Federal de Uberl\u00e2ndia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I80850581"]
+			},
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I4210135669",
+				"ror": "https://ror.org/04dcx0979",
+				"display_name": "Centro Universit\u00e1rio Una",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135669"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 9
+	},
+	{
+		"id": "https://openalex.org/A5028099837",
+		"display_name": "Ducilene do Carmo da Silva",
+		"ids": {
+			"openalex": "https://openalex.org/A5028099837",
+			"orcid": "https://orcid.org/0000-0001-8074-7486"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I4387152431",
+				"ror": "https://ror.org/04stx0g16",
+				"display_name": "Universidade Federal do Norte do Tocantins",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152431"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 1
+		},
+		"works_count": 8
+	},
+	{
+		"id": "https://openalex.org/A5111032074",
+		"display_name": "Nunes Anderson",
+		"ids": { "openalex": "https://openalex.org/A5111032074" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210126709",
+				"ror": "https://ror.org/02d7xrh88",
+				"display_name": "Secretaria da Educa\u00e7\u00e3o do Estado da Bahia",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210126709"]
+			},
+			{
+				"id": "https://openalex.org/I4210102132",
+				"ror": "https://ror.org/01b55ta41",
+				"display_name": "Conselho Nacional de Pesquisa e P\u00f3s-gradua\u00e7\u00e3o em Direito",
+				"country_code": "BR",
+				"type": "facility",
+				"lineage": ["https://openalex.org/I4210102132"]
+			},
+			{
+				"id": "https://openalex.org/I4210092060",
+				"ror": "https://ror.org/00cp8ee37",
+				"display_name": "Prefeitura Municipal de Alto Alegre",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210092060"]
+			},
+			{
+				"id": "https://openalex.org/I304370547",
+				"ror": "https://ror.org/029jgxb70",
+				"display_name": "Centro Universit\u00e1rio Curitiba",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I304370547"]
+			},
+			{
+				"id": "https://openalex.org/I1283613182",
+				"ror": "https://ror.org/002v2kq79",
+				"display_name": "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I1283613182"]
+			},
+			{
+				"id": "https://openalex.org/I150729083",
+				"ror": "https://ror.org/02xfp8v59",
+				"display_name": "Universidade de Bras\u00edlia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I150729083"]
+			},
+			{
+				"id": "https://openalex.org/I4210114476",
+				"ror": "https://ror.org/0261qja04",
+				"display_name": "Universidade Estadual do Norte do Paran\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210114476"]
+			},
+			{
+				"id": "https://openalex.org/I43526919",
+				"ror": "https://ror.org/01hewbk46",
+				"display_name": "Universidade Estadual de Montes Claros",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I43526919"]
+			},
+			{
+				"id": "https://openalex.org/I4210165725",
+				"ror": "https://ror.org/05te7m660",
+				"display_name": "Servi\u00e7o Nacional de Aprendizagem Comercial",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210165725"]
+			},
+			{
+				"id": "https://openalex.org/I187420256",
+				"ror": "https://ror.org/0310smc09",
+				"display_name": "Universidade Federal da Grande Dourados",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I187420256"]
+			},
+			{
+				"id": "https://openalex.org/I270441400",
+				"ror": "https://ror.org/007qd1t98",
+				"display_name": "Rio de Janeiro Federal Institute of Education, Science and Technology",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I270441400"]
+			},
+			{
+				"id": "https://openalex.org/I4210133832",
+				"ror": "https://ror.org/03cxsty68",
+				"display_name": "Universidade Estadual do Centro-Oeste",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210133832"]
+			},
+			{
+				"id": "https://openalex.org/I4210106570",
+				"ror": "https://ror.org/01av3m334",
+				"display_name": "Universidade Federal do Tri\u00e2ngulo Mineiro",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210106570"]
+			},
+			{
+				"id": "https://openalex.org/I3125581668",
+				"ror": "https://ror.org/02ynbzc81",
+				"display_name": "Universidade de Fortaleza",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I3125581668"]
+			},
+			{
+				"id": "https://openalex.org/I4210144729",
+				"ror": "https://ror.org/041pjwa23",
+				"display_name": "Universidade do Vale do Itaja\u00ed",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210144729"]
+			},
+			{
+				"id": "https://openalex.org/I18167132",
+				"ror": "https://ror.org/006nc8n95",
+				"display_name": "Universidade Presbiteriana Mackenzie",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I18167132"]
+			},
+			{
+				"id": "https://openalex.org/I84554738",
+				"ror": "https://ror.org/05x2svh05",
+				"display_name": "Universidade Federal Rural do Semi-\u00c1rido",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I84554738"]
+			},
+			{
+				"id": "https://openalex.org/I59606676",
+				"ror": "https://ror.org/03q9sr818",
+				"display_name": "Universidade Federal do Par\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I59606676"]
+			},
+			{
+				"id": "https://openalex.org/I1317776637",
+				"ror": "https://ror.org/05hag2y10",
+				"display_name": "Universidade Federal do Acre",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I1317776637"]
+			},
+			{
+				"id": "https://openalex.org/I4210103459",
+				"ror": "https://ror.org/019cg0811",
+				"display_name": "Instituto Hist\u00f3rico e Geogr\u00e1fico Brasileiro",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210103459"]
+			},
+			{
+				"id": "https://openalex.org/I40034438",
+				"ror": "https://ror.org/0198v2949",
+				"display_name": "Universidade do Estado do Rio de Janeiro",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I40034438"]
+			},
+			{
+				"id": "https://openalex.org/I181391015",
+				"ror": "https://ror.org/04wffgt70",
+				"display_name": "Universidade Estadual de Campinas (UNICAMP)",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I181391015"]
+			},
+			{
+				"id": "https://openalex.org/I177909021",
+				"ror": "https://ror.org/00qdc6m37",
+				"display_name": "Universidade Federal de S\u00e3o Carlos",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I177909021"]
+			},
+			{
+				"id": "https://openalex.org/I4210132153",
+				"ror": "https://ror.org/03gq9pd80",
+				"display_name": "Instituto Federal de Goi\u00e1s",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210132153"]
+			},
+			{
+				"id": "https://openalex.org/I4210101723",
+				"ror": "https://ror.org/014hvfk26",
+				"display_name": "UniFG Centro Universit\u00e1rio",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210101723"]
+			},
+			{
+				"id": "https://openalex.org/I72872986",
+				"ror": "https://ror.org/003qt4p19",
+				"display_name": "Universidade Federal do Pampa",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I72872986"]
+			},
+			{
+				"id": "https://openalex.org/I3131883934",
+				"ror": "https://ror.org/0057ag334",
+				"display_name": "Agostinho Neto University",
+				"country_code": "AO",
+				"type": "education",
+				"lineage": ["https://openalex.org/I3131883934"]
+			},
+			{
+				"id": "https://openalex.org/I4210112416",
+				"ror": "https://ror.org/02239nd21",
+				"display_name": "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Par\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I1293487690",
+					"https://openalex.org/I2801200668",
+					"https://openalex.org/I4210112416"
+				]
+			},
+			{
+				"id": "https://openalex.org/I21803372",
+				"ror": "https://ror.org/02gyps716",
+				"display_name": "University of \u00c9vora",
+				"country_code": "PT",
+				"type": "education",
+				"lineage": ["https://openalex.org/I21803372"]
+			},
+			{
+				"id": "https://openalex.org/I51235708",
+				"ror": "https://ror.org/05sxf4h28",
+				"display_name": "Universidade Federal do Esp\u00edrito Santo",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I51235708"]
+			},
+			{
+				"id": "https://openalex.org/I4210158596",
+				"ror": "https://ror.org/052073c89",
+				"display_name": "Prefeitura Municipal de Vit\u00f3ria",
+				"country_code": "BR",
+				"type": "government",
+				"lineage": ["https://openalex.org/I4210158596"]
+			},
+			{
+				"id": "https://openalex.org/I4210135669",
+				"ror": "https://ror.org/04dcx0979",
+				"display_name": "Centro Universit\u00e1rio Una",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135669"]
+			},
+			{
+				"id": "https://openalex.org/I4210135412",
+				"ror": "https://ror.org/031va9m79",
+				"display_name": "Universidade Federal do Amap\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135412"]
+			},
+			{
+				"id": "https://openalex.org/I80850581",
+				"ror": "https://ror.org/04x3wvr31",
+				"display_name": "Universidade Federal de Uberl\u00e2ndia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I80850581"]
+			},
+			{
+				"id": "https://openalex.org/I81009624",
+				"ror": "https://ror.org/045ae7j03",
+				"display_name": "Universidade S\u00e3o Francisco",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I81009624"]
+			},
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			},
+			{
+				"id": "https://openalex.org/I123443094",
+				"ror": "https://ror.org/04bqqa360",
+				"display_name": "Universidade Estadual de Maring\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I123443094"]
+			},
+			{
+				"id": "https://openalex.org/I71437568",
+				"ror": "https://ror.org/00gtcbp88",
+				"display_name": "Universidade de Pernambuco",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I71437568"]
+			},
+			{
+				"id": "https://openalex.org/I4210147594",
+				"ror": "https://ror.org/04j5z3x06",
+				"display_name": "Universidade do Estado do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I4210147594"]
+			},
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			},
+			{
+				"id": "https://openalex.org/I62885914",
+				"ror": "https://ror.org/02263ky35",
+				"display_name": "Universidade Federal do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I62885914"]
+			},
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5102581781",
+		"display_name": "Lucas Almeida Arruda",
+		"ids": { "openalex": "https://openalex.org/A5102581781" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210122181",
+				"ror": "https://ror.org/02kt6vs55",
+				"display_name": "Unichristus",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210122181"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 1
+	},
+	{
+		"id": "https://openalex.org/A5048982597",
+		"display_name": "Fernando Mayer Pelicice",
+		"ids": {
+			"openalex": "https://openalex.org/A5048982597",
+			"orcid": "https://orcid.org/0000-0002-9700-1194"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 2.7916666666666665,
+			"h_index": 43,
+			"i10_index": 84
+		},
+		"works_count": 158
+	},
+	{
+		"id": "https://openalex.org/A5004617658",
+		"display_name": "L\u00edlian Nat\u00e1lia Ferreira de Lima",
+		"ids": {
+			"openalex": "https://openalex.org/A5004617658",
+			"orcid": "https://orcid.org/0000-0002-0931-3105"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I59606676",
+				"ror": "https://ror.org/03q9sr818",
+				"display_name": "Universidade Federal do Par\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I59606676"]
+			},
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.12,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 80
+	},
+	{
+		"id": "https://openalex.org/A5003778549",
+		"display_name": "Janayna Ara\u00fajo Viana",
+		"ids": {
+			"openalex": "https://openalex.org/A5003778549",
+			"orcid": "https://orcid.org/0000-0002-8855-5056"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.047619047619047616,
+			"h_index": 5,
+			"i10_index": 3
+		},
+		"works_count": 55
+	},
+	{
+		"id": "https://openalex.org/A5061915189",
+		"display_name": "Patr\u00edcia Martins Guarda",
+		"ids": {
+			"openalex": "https://openalex.org/A5061915189",
+			"orcid": "https://orcid.org/0000-0003-0937-6779"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5,
+			"h_index": 6,
+			"i10_index": 4
+		},
+		"works_count": 54
+	},
+	{
+		"id": "https://openalex.org/A5065506548",
+		"display_name": "T\u00falia Fernanda Meira Garcia",
+		"ids": {
+			"openalex": "https://openalex.org/A5065506548",
+			"orcid": "https://orcid.org/0000-0003-1746-4808"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I35046152",
+				"ror": "https://ror.org/04wn09761",
+				"display_name": "Universidade Federal do Rio Grande do Norte",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I35046152"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.55,
+			"h_index": 5,
+			"i10_index": 1
+		},
+		"works_count": 40
+	},
+	{
+		"id": "https://openalex.org/A5090274591",
+		"display_name": "Jair Jos\u00e9 Maldaner",
+		"ids": {
+			"openalex": "https://openalex.org/A5090274591",
+			"orcid": "https://orcid.org/0000-0002-8288-6583"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.16666666666666666,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 34
+	},
+	{
+		"id": "https://openalex.org/A5078926967",
+		"display_name": "Bh\u00e1rbara Karolline Rodrigues Silva",
+		"ids": {
+			"openalex": "https://openalex.org/A5078926967",
+			"orcid": "https://orcid.org/0000-0001-5347-2114"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 2.6666666666666665,
+			"h_index": 5,
+			"i10_index": 5
+		},
+		"works_count": 15
+	},
+	{
+		"id": "https://openalex.org/A5030975064",
+		"display_name": "Ila Raquel Mello Cardoso",
+		"ids": {
+			"openalex": "https://openalex.org/A5030975064",
+			"orcid": "https://orcid.org/0000-0002-3481-0090"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 2,
+			"i10_index": 0
+		},
+		"works_count": 12
+	},
+	{
+		"id": "https://openalex.org/A5059630994",
+		"display_name": "Pierre Soares Brand\u00e3o",
+		"ids": {
+			"openalex": "https://openalex.org/A5059630994",
+			"orcid": "https://orcid.org/0000-0003-4176-1159"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4387152239",
+				"ror": "https://ror.org/01nnak423",
+				"display_name": "Centro Universit\u00e1rio Luterano de Palmas",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152239"]
+			},
+			{
+				"id": "https://openalex.org/I24871856",
+				"ror": "https://ror.org/0058wy590",
+				"display_name": "Universidade Cat\u00f3lica de Bras\u00edlia",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I24871856"]
+			},
+			{
+				"id": "https://openalex.org/I51882195",
+				"ror": "https://ror.org/00kde4z41",
+				"display_name": "Universidade Luterana do Brasil",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I51882195"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 3,
+			"i10_index": 1
+		},
+		"works_count": 10
+	},
+	{
+		"id": "https://openalex.org/A5113107459",
+		"display_name": "Francisco De Azevedo",
+		"ids": { "openalex": "https://openalex.org/A5113107459" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I84554738",
+				"ror": "https://ror.org/05x2svh05",
+				"display_name": "Universidade Federal Rural do Semi-\u00c1rido",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I84554738"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 7
+	},
+	{
+		"id": "https://openalex.org/A5009828717",
+		"display_name": "Leandro Juen",
+		"ids": {
+			"openalex": "https://openalex.org/A5009828717",
+			"orcid": "https://orcid.org/0000-0002-6188-4386",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=15845750000&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I59606676",
+				"ror": "https://ror.org/03q9sr818",
+				"display_name": "Universidade Federal do Par\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I59606676"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.30846325167037864,
+			"h_index": 45,
+			"i10_index": 164
+		},
+		"works_count": 1144
+	},
+	{
+		"id": "https://openalex.org/A5054472989",
+		"display_name": "Gil Rodrigues dos Santos",
+		"ids": {
+			"openalex": "https://openalex.org/A5054472989",
+			"orcid": "https://orcid.org/0000-0002-3830-9463",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=35112970100&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.1363636363636365,
+			"h_index": 20,
+			"i10_index": 50
+		},
+		"works_count": 333
+	},
+	{
+		"id": "https://openalex.org/A5028837059",
+		"display_name": "Rodrigo Ribeiro Fid\u00e9lis",
+		"ids": { "openalex": "https://openalex.org/A5028837059" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5714285714285714,
+			"h_index": 15,
+			"i10_index": 30
+		},
+		"works_count": 250
+	},
+	{
+		"id": "https://openalex.org/A5029992341",
+		"display_name": "Marcos Giongo",
+		"ids": {
+			"openalex": "https://openalex.org/A5029992341",
+			"orcid": "https://orcid.org/0000-0003-1613-6167",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=57044652600&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.35555555555555557,
+			"h_index": 11,
+			"i10_index": 12
+		},
+		"works_count": 200
+	},
+	{
+		"id": "https://openalex.org/A5091549849",
+		"display_name": "Luiz Sin\u00e9sio Silva Neto",
+		"ids": {
+			"openalex": "https://openalex.org/A5091549849",
+			"orcid": "https://orcid.org/0000-0002-3182-7727"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.9767441860465116,
+			"h_index": 8,
+			"i10_index": 6
+		},
+		"works_count": 117
+	},
+	{
+		"id": "https://openalex.org/A5014373922",
+		"display_name": "Helcil\u00e9ia Dias Santos",
+		"ids": {
+			"openalex": "https://openalex.org/A5014373922",
+			"orcid": "https://orcid.org/0000-0002-7120-951X",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=53878676900&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I35046152",
+				"ror": "https://ror.org/04wn09761",
+				"display_name": "Universidade Federal do Rio Grande do Norte",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I35046152"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.26666666666666666,
+			"h_index": 6,
+			"i10_index": 1
+		},
+		"works_count": 82
+	},
+	{
+		"id": "https://openalex.org/A5045842303",
+		"display_name": "M\u00e1rio Henrique Alves",
+		"ids": {
+			"openalex": "https://openalex.org/A5045842303",
+			"orcid": "https://orcid.org/0000-0001-6742-8173"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210155916",
+				"ror": "https://ror.org/04sbxpy59",
+				"display_name": "Instituto de Conserva\u00e7\u00e3o de Animais Silvestres",
+				"country_code": "BR",
+				"type": "nonprofit",
+				"lineage": ["https://openalex.org/I4210155916"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.1428571428571428,
+			"h_index": 9,
+			"i10_index": 9
+		},
+		"works_count": 41
+	},
+	{
+		"id": "https://openalex.org/A5111999741",
+		"display_name": "Clodoaldo Machado",
+		"ids": { "openalex": "https://openalex.org/A5111999741" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210151606",
+				"ror": "https://ror.org/047979f88",
+				"display_name": "\u00c1guas de Portugal (Portugal)",
+				"country_code": "PT",
+				"type": "company",
+				"lineage": ["https://openalex.org/I4210151606"]
+			},
+			{
+				"id": "https://openalex.org/I4210157083",
+				"ror": "https://ror.org/0568kxy29",
+				"display_name": "UniBrasil Centro Universit\u00e1rio",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210157083"]
+			},
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 15,
+			"i10_index": 16
+		},
+		"works_count": 22
+	},
+	{
+		"id": "https://openalex.org/A5045148377",
+		"display_name": "Rafael Costa Bastos",
+		"ids": {
+			"openalex": "https://openalex.org/A5045148377",
+			"orcid": "https://orcid.org/0000-0001-7581-7099"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I59606676",
+				"ror": "https://ror.org/03q9sr818",
+				"display_name": "Universidade Federal do Par\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I59606676"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 10.8,
+			"h_index": 8,
+			"i10_index": 7
+		},
+		"works_count": 16
+	},
+	{
+		"id": "https://openalex.org/A5094568862",
+		"display_name": "Profa Dra",
+		"ids": { "openalex": "https://openalex.org/A5094568862" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 6
+	},
+	{
+		"id": "https://openalex.org/A5071908385",
+		"display_name": "Paulo de Marco J\u00fanior",
+		"ids": {
+			"openalex": "https://openalex.org/A5071908385",
+			"orcid": "https://orcid.org/0000-0002-3628-6405",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=7006718539&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I3129565396",
+				"ror": "https://ror.org/03ta25k06",
+				"display_name": "Universidade Estadual de Goi\u00e1s",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I3129565396"]
+			},
+			{
+				"id": "https://openalex.org/I4210130207",
+				"ror": "https://ror.org/02gcshf78",
+				"display_name": "Natura (Brazil)",
+				"country_code": "BR",
+				"type": "company",
+				"lineage": ["https://openalex.org/I4210130207"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.1362048894062864,
+			"h_index": 54,
+			"i10_index": 171
+		},
+		"works_count": 1121
+	},
+	{
+		"id": "https://openalex.org/A5034079036",
+		"display_name": "Renato Almeida Sarmento",
+		"ids": {
+			"openalex": "https://openalex.org/A5034079036",
+			"orcid": "https://orcid.org/0000-0002-5379-9595",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=16043767700&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.631578947368421,
+			"h_index": 28,
+			"i10_index": 73
+		},
+		"works_count": 235
+	},
+	{
+		"id": "https://openalex.org/A5035533054",
+		"display_name": "Luciano Fernandes Sousa",
+		"ids": {
+			"openalex": "https://openalex.org/A5035533054",
+			"orcid": "https://orcid.org/0000-0002-6072-9237",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=22956565300&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.3714285714285714,
+			"h_index": 11,
+			"i10_index": 14
+		},
+		"works_count": 164
+	},
+	{
+		"id": "https://openalex.org/A5069097081",
+		"display_name": "Adriana Malv\u00e1sio",
+		"ids": {
+			"openalex": "https://openalex.org/A5069097081",
+			"orcid": "https://orcid.org/0000-0001-8020-3307"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.3076923076923077,
+			"h_index": 12,
+			"i10_index": 13
+		},
+		"works_count": 83
+	},
+	{
+		"id": "https://openalex.org/A5027652331",
+		"display_name": "\u00c2ngelo Ricardo Baldu\u00edno",
+		"ids": {
+			"openalex": "https://openalex.org/A5027652331",
+			"orcid": "https://orcid.org/0000-0002-7082-2566"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.045454545454545456,
+			"h_index": 2,
+			"i10_index": 0
+		},
+		"works_count": 78
+	},
+	{
+		"id": "https://openalex.org/A5034679004",
+		"display_name": "Guilherme Nobre Lima do Nascimento",
+		"ids": {
+			"openalex": "https://openalex.org/A5034679004",
+			"orcid": "https://orcid.org/0000-0003-4185-0872"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.1111111111111111,
+			"h_index": 9,
+			"i10_index": 9
+		},
+		"works_count": 72
+	},
+	{
+		"id": "https://openalex.org/A5065958755",
+		"display_name": "F. Bertoni",
+		"ids": { "openalex": "https://openalex.org/A5065958755" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I136754270",
+				"ror": "https://ror.org/02cm65z11",
+				"display_name": "Universidade Estadual da Para\u00edba",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I136754270"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 17,
+			"i10_index": 17
+		},
+		"works_count": 48
+	},
+	{
+		"id": "https://openalex.org/A5039056660",
+		"display_name": "Otac\u00edlio Silveira J\u00fanior",
+		"ids": {
+			"openalex": "https://openalex.org/A5039056660",
+			"orcid": "https://orcid.org/0000-0002-0784-5335"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 5,
+			"i10_index": 0
+		},
+		"works_count": 35
+	},
+	{
+		"id": "https://openalex.org/A5042489555",
+		"display_name": "Volmar Morais Fontoura",
+		"ids": {
+			"openalex": "https://openalex.org/A5042489555",
+			"orcid": "https://orcid.org/0000-0001-8731-6750"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210089573",
+				"ror": "https://ror.org/00akhqc20",
+				"display_name": "Universidade do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210089573"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.45454545454545453,
+			"h_index": 6,
+			"i10_index": 5
+		},
+		"works_count": 27
+	},
+	{
+		"id": "https://openalex.org/A5114104269",
+		"display_name": "Gelson da Costa Silva",
+		"ids": { "openalex": "https://openalex.org/A5114104269" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4387152431",
+				"ror": "https://ror.org/04stx0g16",
+				"display_name": "Universidade Federal do Norte do Tocantins",
+				"country_code": null,
+				"type": "education",
+				"lineage": ["https://openalex.org/I4387152431"]
+			},
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 4
+	},
+	{
+		"id": "https://openalex.org/A5089362833",
+		"display_name": "Alberto Akama",
+		"ids": {
+			"openalex": "https://openalex.org/A5089362833",
+			"orcid": "https://orcid.org/0000-0003-0209-770X"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I1321642675",
+				"ror": "https://ror.org/010gvqg61",
+				"display_name": "Museu Paraense Em\u00edlio Goeldi",
+				"country_code": "BR",
+				"type": "archive",
+				"lineage": ["https://openalex.org/I1321642675"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.029288702928870293,
+			"h_index": 19,
+			"i10_index": 25
+		},
+		"works_count": 865
+	},
+	{
+		"id": "https://openalex.org/A5044998473",
+		"display_name": "Francisco Gilson Rebou\u00e7as P\u00f4rto",
+		"ids": {
+			"openalex": "https://openalex.org/A5044998473",
+			"orcid": "https://orcid.org/0000-0002-5335-6428"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I161127581",
+				"ror": "https://ror.org/02rjhbb08",
+				"display_name": "Universidade Federal Fluminense",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I161127581"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.05555555555555555,
+			"h_index": 3,
+			"i10_index": 0
+		},
+		"works_count": 169
+	},
+	{
+		"id": "https://openalex.org/A5072386529",
+		"display_name": "Fl\u00e1vio S\u00e9rgio Aff\u00e9rri",
+		"ids": {
+			"openalex": "https://openalex.org/A5072386529",
+			"orcid": "https://orcid.org/0000-0002-0819-4108"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I177909021",
+				"ror": "https://ror.org/00qdc6m37",
+				"display_name": "Universidade Federal de S\u00e3o Carlos",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I177909021"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.16666666666666666,
+			"h_index": 10,
+			"i10_index": 13
+		},
+		"works_count": 148
+	},
+	{
+		"id": "https://openalex.org/A5017020158",
+		"display_name": "Mary L\u00facia Gomes Silveira de Senna",
+		"ids": {
+			"openalex": "https://openalex.org/A5017020158",
+			"orcid": "https://orcid.org/0000-0002-4112-5470"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.5625,
+			"h_index": 3,
+			"i10_index": 0
+		},
+		"works_count": 62
+	},
+	{
+		"id": "https://openalex.org/A5008785713",
+		"display_name": "Francisco Lopes",
+		"ids": {
+			"openalex": "https://openalex.org/A5008785713",
+			"orcid": "https://orcid.org/0000-0002-6696-9768"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 4,
+			"i10_index": 1
+		},
+		"works_count": 59
+	},
+	{
+		"id": "https://openalex.org/A5090733771",
+		"display_name": "Marcelo Gustavo Paulino",
+		"ids": {
+			"openalex": "https://openalex.org/A5090733771",
+			"orcid": "https://orcid.org/0000-0003-0464-6848",
+			"scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=36659742600&partnerID=MN8TOARS"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 16,
+			"i10_index": 20
+		},
+		"works_count": 36
+	},
+	{
+		"id": "https://openalex.org/A5080764569",
+		"display_name": "Davi Borges das Chagas",
+		"ids": {
+			"openalex": "https://openalex.org/A5080764569",
+			"orcid": "https://orcid.org/0000-0001-5222-1030"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 5,
+			"i10_index": 3
+		},
+		"works_count": 16
+	},
+	{
+		"id": "https://openalex.org/A5055909685",
+		"display_name": "Fernanda Alves Costa",
+		"ids": {
+			"openalex": "https://openalex.org/A5055909685",
+			"orcid": "https://orcid.org/0000-0002-0889-725X"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.2,
+			"h_index": 2,
+			"i10_index": 1
+		},
+		"works_count": 10
+	},
+	{
+		"id": "https://openalex.org/A5054431207",
+		"display_name": "Marco Aur\u00e9lio Miranda Soares",
+		"ids": {
+			"openalex": "https://openalex.org/A5054431207",
+			"orcid": "https://orcid.org/0000-0002-4473-2161"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I177909021",
+				"ror": "https://ror.org/00qdc6m37",
+				"display_name": "Universidade Federal de S\u00e3o Carlos",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I177909021"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 6
+	},
+	{
+		"id": "https://openalex.org/A5094566212",
+		"display_name": "Junior Dra",
+		"ids": { "openalex": "https://openalex.org/A5094566212" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			},
+			{
+				"id": "https://openalex.org/I4210151606",
+				"ror": "https://ror.org/047979f88",
+				"display_name": "\u00c1guas de Portugal (Portugal)",
+				"country_code": "PT",
+				"type": "company",
+				"lineage": ["https://openalex.org/I4210151606"]
+			},
+			{
+				"id": "https://openalex.org/I4210157083",
+				"ror": "https://ror.org/0568kxy29",
+				"display_name": "UniBrasil Centro Universit\u00e1rio",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210157083"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 4
+	},
+	{
+		"id": "https://openalex.org/A5065157787",
+		"display_name": "Frederico Augusto de Atayde Lencioni",
+		"ids": {
+			"openalex": "https://openalex.org/A5065157787",
+			"orcid": "https://orcid.org/0000-0002-3912-9181"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210165617",
+				"ror": "https://ror.org/05smh3q72",
+				"display_name": "JP Group (Brazil)",
+				"country_code": "BR",
+				"type": "company",
+				"lineage": ["https://openalex.org/I4210165617"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.029850746268656716,
+			"h_index": 10,
+			"i10_index": 10
+		},
+		"works_count": 490
+	},
+	{
+		"id": "https://openalex.org/A5024534601",
+		"display_name": "\u00c9rika da Silva Maciel",
+		"ids": {
+			"openalex": "https://openalex.org/A5024534601",
+			"orcid": "https://orcid.org/0000-0002-9836-7665"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I41458283",
+				"ror": "https://ror.org/053xy8k29",
+				"display_name": "Universidade Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I41458283"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 1.03125,
+			"h_index": 14,
+			"i10_index": 26
+		},
+		"works_count": 169
+	},
+	{
+		"id": "https://openalex.org/A5080864318",
+		"display_name": "Celestino Barbosa",
+		"ids": {
+			"openalex": "https://openalex.org/A5080864318",
+			"orcid": "https://orcid.org/0000-0002-4631-5919"
+		},
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I84554738",
+				"ror": "https://ror.org/05x2svh05",
+				"display_name": "Universidade Federal Rural do Semi-\u00c1rido",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I84554738"]
+			},
+			{
+				"id": "https://openalex.org/I130442723",
+				"ror": "https://ror.org/041yk2d64",
+				"display_name": "Universidade Federal do Rio Grande do Sul",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I130442723"]
+			},
+			{
+				"id": "https://openalex.org/I54203891",
+				"ror": "https://ror.org/03tah6c23",
+				"display_name": "Ferro (United States)",
+				"country_code": "US",
+				"type": "company",
+				"lineage": ["https://openalex.org/I54203891"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 4,
+			"i10_index": 1
+		},
+		"works_count": 33
+	},
+	{
+		"id": "https://openalex.org/A5070015852",
+		"display_name": "Sandra Cardoso",
+		"ids": { "openalex": "https://openalex.org/A5070015852" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I62885914",
+				"ror": "https://ror.org/02263ky35",
+				"display_name": "Universidade Federal do Amazonas",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I62885914"]
+			},
+			{
+				"id": "https://openalex.org/I99682543",
+				"ror": "https://ror.org/037wpkx04",
+				"display_name": "University of Minho",
+				"country_code": "PT",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I99682543"]
+			},
+			{
+				"id": "https://openalex.org/I4210135669",
+				"ror": "https://ror.org/04dcx0979",
+				"display_name": "Centro Universit\u00e1rio Una",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210135669"]
+			},
+			{
+				"id": "https://openalex.org/I112197944",
+				"ror": "https://ror.org/01hdk3d05",
+				"display_name": "San Antonio College",
+				"country_code": "US",
+				"type": "education",
+				"lineage": [
+					"https://openalex.org/I112197944",
+					"https://openalex.org/I4210160641"
+				]
+			},
+			{
+				"id": "https://openalex.org/I243754102",
+				"ror": "https://ror.org/03srtnf24",
+				"display_name": "Universidade Federal do Cear\u00e1",
+				"country_code": "BR",
+				"type": "funder",
+				"lineage": ["https://openalex.org/I243754102"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 0
+		},
+		"works_count": 11
+	},
+	{
+		"id": "https://openalex.org/A5058569082",
+		"display_name": "Sarah Gisele de Vasconcelos Leite",
+		"ids": { "openalex": "https://openalex.org/A5058569082" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I211891151",
+				"ror": "https://ror.org/042r36z33",
+				"display_name": "Universidade do Estado do Par\u00e1",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I211891151"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 1,
+			"i10_index": 1
+		},
+		"works_count": 5
+	},
+	{
+		"id": "https://openalex.org/A5057065610",
+		"display_name": "Victor Freitas de Campos",
+		"ids": { "openalex": "https://openalex.org/A5057065610" },
+		"last_known_institutions": [
+			{
+				"id": "https://openalex.org/I4210157083",
+				"ror": "https://ror.org/0568kxy29",
+				"display_name": "UniBrasil Centro Universit\u00e1rio",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210157083"]
+			},
+			{
+				"id": "https://openalex.org/I4210139493",
+				"ror": "https://ror.org/03p5hcj07",
+				"display_name": "Instituto Federal do Tocantins",
+				"country_code": "BR",
+				"type": "education",
+				"lineage": ["https://openalex.org/I4210139493"]
+			},
+			{
+				"id": "https://openalex.org/I4210151606",
+				"ror": "https://ror.org/047979f88",
+				"display_name": "\u00c1guas de Portugal (Portugal)",
+				"country_code": "PT",
+				"type": "company",
+				"lineage": ["https://openalex.org/I4210151606"]
+			}
+		],
+		"summary_stats": {
+			"2yr_mean_citedness": 0.0,
+			"h_index": 0,
+			"i10_index": 0
+		},
+		"works_count": 2
+	}
+]
