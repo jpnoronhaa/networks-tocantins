@@ -1,4 +1,7 @@
 import pandas as pd
+from pyalex import Authors, config
+from dotenv import load_dotenv
+import os
 from src.json_resolver import json_string_to_dict
 
 def extract_authors(df: pd.DataFrame) -> set:
@@ -93,3 +96,38 @@ def extract_authors_ids(df: pd.DataFrame) -> set:
     authors_set_ids.update(authors_ids)
 
   return authors_set_ids
+
+def get_authors_api(author_ids: list) -> list:
+  """
+  Coleta dados de autores da OpenAlex usando IDs.
+  """
+  load_dotenv() 
+
+  config.max_retries = 5
+  config.retry_backoff_factor = 0.1
+  config.retry_http_codes = [429, 500, 503]
+  
+  config.email = os.getenv("EMAIL_PYALEX")
+
+  if not config.email:
+    raise ValueError("EMAIL_PYALEX não configurado no arquivo .env ou ambiente.")
+
+  fields = [
+    'id',
+    'display_name',
+    'ids',
+    'last_known_institutions',
+    'summary_stats',
+    'works_count',
+  ]
+
+  all_authors = []
+  
+  formatted_ids = '|'.join(author_ids)
+
+  pager = Authors().filter(openalex=formatted_ids).select(fields).paginate(method="page", per_page=200)
+
+  for page in pager:
+    all_authors.extend(page)
+
+  return all_authors

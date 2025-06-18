@@ -9,3 +9,4 @@ results/metrics/*/*
 *.pkl
 results/attack/*/*
 !results/attack/*/*_70.json
+.env
